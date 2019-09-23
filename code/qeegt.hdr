@@ -1,0 +1,47 @@
+function qeegt(eeg_fname, state, lwin, fmin, freqres, fmax, wbands, brain, pg_apply, flags, output_folder)
+
+% eeg_fname: File which contains the EEG data in PLG (Neuronic) format. Does mot include extension
+% state:     EEG state to be selected for calculations
+% lwin:      Length of epochs, in seconds. Example: 2.56 seg
+% fmin:      Low cut frequency for analysis
+% freqres:   Frequency resolution for analysis
+% fmax:      High cut frequency for analysis
+% wbands:    Broad Bands definition in string format. For example:
+%                 wbands='1.56 3.51; 3.9 7.41; 7.8 12.48; 12.87 19.11; 1.56 11';
+% brain:     1 indicates to restrict the inverse solution to only gray matter
+% pg_apply:  1 indicates to apply correction by the General Scale Factor
+%flags: Options for calculations in string format. For example:
+%       flags='1 1 1 0 1 1 1 1 1 1 1 1';
+%  flags(1)- 1 for calculating the Broad Band Spectral Model
+%  flags(2)- 1 for calculating the Narrow Band Spectral Model
+%  flags(3)- 1 for calculating the Spectra at the EEG sources
+%  flags(4)- RESERVED, not used
+%  flags(5)- 1 for calculating the Broad Band Spectral Model Z values
+%  flags(6)- 1 for calculating the Narrow Band Spectral Model Z values
+%  flags(7)- 1 for calculating the Sources Spectra Z values
+%  flags(8)- 1 for calculating the correlations matrix bewteen all pairs of channels for each epoch
+%  flags(9)- 1 for calculating the coherence matrix bewteen all pairs of channels for each frequency
+% flags(10)- 1 for calculating the phase difference matrix bewteen all pairs of channels for each frequency
+% flags(11)- 1 for calculating the frequency domain correlations bewteen all pairs of channels for each frequency and each epoch
+% flags(12)- Store the XYZ components of the solutions at the sources
+% output_folder: Folder name where to store the results. It should end with the folder separation character.
+%            If empty, the results are saved in the same directory as the input data
+%%%%%%%% NEW %%%%%%%%%%
+% eeg_fname: can also be the name of an ASCII file (with a fixed structure)
+% which contains the data of an EEG recording. In that case, the file needs to
+% have the extension ".txt" and must have the following structure:
+% NAME=Jane Doe
+% SEX=F
+% AGE=20.94
+% SAMPLING_FREQ=200
+% EPOCH_SIZE=512
+% NCHANNELS=19
+% MONTAGE=
+% Fp1-REF
+% Fp2-REF
+% F3_-REF
+%and so on. The program expects NCHANNELS lines with the names
+%AFTER THE CHANNELS NAMES, THE EEG DATA
+%where each line is an instant of time and each column represents a channel.
+%If the EEG contains 30 segments of 512 points each and 19 channels, then
+%30*512 lines of 19 columns of numbers (either float or integer) are expected
