@@ -1,0 +1,3520 @@
+Version = 1 1
+L0T = 1 Aspectos_a_definir:
+L0P = 1 OFF
+L0M = 1 ON
+L0C = 5 Características_de_la_actividad_de_base:
+        Cambios_con_las_maniobras_de_activación:
+        Artefactos_en_el_registro:
+        Conclusión_general.
+        Comentarios_y/o_conclusiones.
+L0K = 5 0 0 0 0 2
+L0I1D = 1 1
+L0I2D = 1 174
+L0I3D = 1 177
+L0I4D = 1 78
+L0I5E1 = 1 $$
+L0IP = 5 ON ON ON ON ON
+L1T = 1 Estado_de_conciencia:
+L1P = 1 OFF
+L1M = 1 OFF
+L1C = 10 Vigil.
+         Sueño_espontáneo.
+         Sueño_inducido.
+         Desorientado.
+         Obnubilado.
+         Estuporoso.
+         Coma_superficial.
+         Coma_profundo.
+         Coma_carus.
+         No_precisado.
+L1K = 10 0 0 0 0 0 0 0 0 0 0
+L1I1D = 1 129
+L1I2D = 1 130
+L1I3D = 1 132
+L1I4D = 1 2
+L1I5D = 1 138
+L1I6D = 1 139
+L1I7D = 1 140
+L1I8D = 1 141
+L1I9D = 1 142
+L1I10D = 1 0
+L1IP = 10 ON ON ON OFF ON ON ON ON ON ON
+L1L = 1 0
+L1O = 1 1
+L2T = 1 Tipo_de_desorientación:
+L2P = 1 OFF
+L2M = 1 OFF
+L2C = 5 Desorientado_autopsiquicamente.
+        Desorientado_alopsiquicamente.
+        Desorientado_en_espacio.
+        Desorientado_en_posición.
+        Desorientado_en_tiempo.
+L2K = 5 0 0 0 0 0
+L2H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L2I1D = 1 133
+L2I2D = 1 134
+L2I3D = 1 135
+L2I4D = 1 136
+L2I5D = 1 137
+L2IP = 5 ON ON ON ON ON
+L2L = 1 1
+L2O = 1 4
+L3T = 1 Ritmos_EEGráficos_fundamentales:
+L3P = 1 ON
+L3M = 1 ON
+L3C = 3 Ritmo_alfa:
+        Ritmo_beta:
+        Act._fisiol._asociadas_a_estos_ritmos.
+L3K = 3 0 0 0
+L3H = 60 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L3I1D = 1 4
+L3I2D = 1 122
+L3I3D = 1 10
+L3IP = 3 ON ON OFF
+L3L = 10 129 133 134 135 136 137 138 139 152 156
+L3O = 10 1 1 1 1 1 1 1 1 1 1
+L4T = 1 Ritmo_alfa:
+L4P = 1 OFF
+L4M = 1 OFF
+L4C = 4 bien_organizado
+        pobremente_organizado
+        muy_escaso
+        sin_organización_definida
+L4K = 4 0 0 0 0
+L4H = 80 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L4I1D = 1 5
+L4I2D = 1 5
+L4I3D = 1 5
+L4I4D = 1 0
+L4IP = 4 ON ON ON ON
+L4L = 1 3
+L4O = 1 1
+L5T = 1 Características_del_ritmo:
+L5P = 1 OFF
+L5M = 1 ON
+L5C = 3 Frecuencia_(Hz):
+        Amplitud_(McV):
+        Topografía.
+L5K = 3 1 1 0
+L5H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+         ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L5I1A = 1 0.00000000000000E+0000
+L5I2A = 1 0.00000000000000E+0000
+L5I3D = 1 6
+L5IP = 3 ON ON OFF
+L5L = 3 4 4 4
+L5O = 3 1 2 3
+L6T = 1 Topografía
+L6P = 1 OFF
+L6M = 1 OFF
+L6C = 3 posterior,
+        subdominante,
+        dominante,
+L6K = 3 0 0 0
+L6H = 60 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L6I1D = 1 8
+L6I2D = 1 8
+L6I3D = 1 8
+L6IP = 3 ON ON ON
+L6L = 1 5
+L6O = 1 3
+L7T = 1 Habituación:
+L7P = 1 OFF
+L7M = 1 OFF
+L7C = 2 habituable,
+        sin_habituación,
+L7K = 2 0 0
+L7H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+         ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L7I1D = 1 91
+L7I2D = 1 91
+L7IP = 2 ON ON
+L7L = 2 82 82
+L7O = 2 1 2
+L8T = 1 Lateralidad_de_la_asimetría:
+L8P = 1 OFF
+L8M = 1 OFF
+L8C = 3 en_ambos_hemisferios,
+        sólo_en_el_hemisferio_izquierdo,
+        sólo_en_el_hemisferio_derecho,
+L8K = 3 0 0 0
+L8H = 60 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L8I1D = 1 9
+L8I2D = 1 110
+L8I3D = 1 110
+L8IP = 3 ON ON ON
+L8L = 3 6 6 6
+L8O = 3 1 2 3
+L9T = 1 Modulación:
+L9P = 1 OFF
+L9M = 1 OFF
+L9C = 4 bien_modulado,
+        pobremente_modulado,
+        con_mala_modulación,
+        con_aspecto_polirrítmico,
+L9K = 4 0 0 0 0
+L9H = 80 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+         OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L9I1D = 1 82
+L9I2D = 1 82
+L9I3D = 1 82
+L9I4D = 1 82
+L9IP = 4 ON ON ON ON
+L9L = 1 8
+L9O = 1 1
+L10T = 1 Act._fisiol._asoc._a_los_ritmos_fundamentales:
+L10P = 1 ON
+L10M = 1 ON
+L10C = 2 Asociadas_al_ritmo_alfa.
+         Ritmo_mu.
+L10K = 2 0 0
+L10H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L10I1D = 1 11
+L10I2D = 1 122
+L10IP = 2 OFF ON
+L10L = 1 3
+L10O = 1 3
+L11T = 1 Variantes_fisiol._asoc._al_ritmo_alfa:
+L11P = 1 ON
+L11M = 1 ON
+L11C = 4 Ondas_lentas_posteriores.
+         Ritmo_alfa_variante.
+         Ritmo_theta_fisiológico.
+         Ritmo_theta_posterior.
+L11K = 4 0 0 0 0
+L11H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L11I1D = 1 0
+L11I2D = 1 0
+L11I3D = 1 0
+L11I4D = 1 0
+L11IP = 4 ON ON ON ON
+L11L = 1 10
+L11O = 1 1
+L12T = 1 Topografía
+L12P = 1 OFF
+L12M = 1 OFF
+L12C = 8 en_la_región_frontal
+         en_la_región_central
+         en_la_región_parietal
+         en_la_región_fronto-central
+         en_la_región_centro-parietal
+         en_línea_media_anterior
+         en_línea_media_posterior
+         en_toda_la_línea_media
+L12K = 8 0 0 0 0 0 0 0 0
+L12H = 160 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L12I1D = 1 144
+L12I2D = 1 145
+L12I3D = 1 146
+L12I4D = 1 147
+L12I5D = 1 148
+L12I6D = 1 0
+L12I7D = 1 0
+L12I8D = 1 0
+L12IP = 8 ON ON ON ON ON ON ON ON
+L12L = 1 122
+L12O = 1 3
+L13T = 1 Actividades_EEGráficas_no_organizadas_como_ritmos:
+L13P = 1 OFF
+L13M = 1 OFF
+L13C = 2 Activ._fisiol._asociadas_a_la_actividad_de_base.
+         Activ._EEGráficas_asociadas_a_estados_patológicos.
+L13K = 2 0 0
+L13H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L13I1D = 1 14
+L13I2D = 1 14
+L13IP = 2 ON ON
+L13L = 13 129 133 134 135 136 137 138 139 140 141 142 152 156
+L13O = 13 2 2 2 2 2 2 2 2 1 1 1 2 2
+L14T = 1 Otras_actividades_EEGráficas:
+L14P = 1 OFF
+L14M = 1 ON
+L14C = 5 De_la_banda_beta.
+         De_la_banda_alfa.
+         De_la_banda_theta.
+         De_la_banda_delta.
+         Paroxismos_fisiológicos.
+L14K = 5 0 0 0 0 0
+L14H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L14I1D = 1 15
+L14I2D = 1 17
+L14I3D = 1 19
+L14I4D = 1 21
+L14I5D = 1 22
+L14IP = 5 OFF OFF OFF OFF OFF
+L14L = 2 13 13
+L14O = 2 1 2
+L15T = 1 Actividad_beta:
+L15P = 1 ON
+L15M = 1 ON
+L15C = 5 Distribución.
+         Presentación.
+         Amplitud.
+         Variantes_rápidas_fisiológicas_de_la_actividad_de_base.
+         de_origen_medicamentoso.
+L15K = 5 0 0 0 0 0
+L15H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L15I1D = 1 84
+L15I2D = 1 95
+L15I3D = 1 97
+L15I4D = 1 16
+L15I5D = 1 0
+L15IP = 5 OFF OFF OFF OFF ON
+L15L = 1 14
+L15O = 1 1
+L16T = 1 Variantes_rápidas_fisiológicas_de_la_actividad_de_base:
+L16P = 1 ON
+L16M = 1 OFF
+L16C = 2 Actividad_rápida_poco_amplia_(LVF).
+         Actividad_rápida_fisiológica.
+L16K = 2 0 0
+L16H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L16I1D = 1 0
+L16I2D = 1 0
+L16IP = 2 ON ON
+L16L = 1 15
+L16O = 1 4
+L17T = 1 Actividad_alfa:
+L17P = 1 ON
+L17M = 1 ON
+L17C = 4 Frecuencia.
+         Distribución.
+         Presentación.
+         Reactividad.
+L17K = 4 0 0 0 0
+L17H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L17I1D = 1 18
+L17I2D = 1 84
+L17I3D = 1 95
+L17I4D = 1 83
+L17IP = 4 OFF OFF OFF OFF
+L17L = 1 14
+L17O = 1 2
+L18T = 1 Frecuencia:
+L18P = 1 OFF
+L18M = 1 OFF
+L18C = 2 con_frecuencia_estable,
+         con_frecuencia_inestable,
+L18K = 2 0 0
+L18H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L18I1D = 1 97
+L18I2D = 1 97
+L18IP = 2 ON ON
+L18L = 1 17
+L18O = 1 1
+L19T = 1 Actividad_theta:
+L19P = 1 ON
+L19M = 1 ON
+L19C = 4 Distribución.
+         Morfología
+         Reactividad
+         Simetría
+L19K = 4 0 0 0 0
+L19H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L19I1D = 1 84
+L19I2D = 1 20
+L19I3D = 1 83
+L19I4D = 1 91
+L19IP = 4 OFF OFF OFF OFF
+L19L = 1 14
+L19O = 1 3
+L20T = 1 Morfología
+L20P = 1 OFF
+L20M = 1 OFF
+L20C = 4 a_elementos_aislados,_entremezclados_con_la_actividad_fundamental,
+         en_oleadas_de_aspecto_monomorfo,
+         en_oleadas_de_aspecto_polimorfo,
+         en_oleadas,_con_coexistencia_de_elementos_monomorfos_y_polimorfos,
+L20K = 4 0 0 0 0
+L20H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L20I1D = 1 95
+L20I2D = 1 95
+L20I3D = 1 95
+L20I4D = 1 0
+L20IP = 4 ON ON ON ON
+L20L = 2 19 21
+L20O = 2 2 2
+L21T = 1 Actividad_delta:
+L21P = 1 ON
+L21M = 1 ON
+L21C = 4 Distribución.
+         Morfología.
+         Reactividad.
+         Simetría.
+L21K = 4 0 0 0 0
+L21H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L21I1D = 1 84
+L21I2D = 1 20
+L21I3D = 1 83
+L21I4D = 1 91
+L21IP = 4 OFF OFF OFF OFF
+L21L = 1 14
+L21O = 1 4
+L22T = 1 Paroxismos_fisiol._inhabituales:
+L22P = 1 ON
+L22M = 1 ON
+L22C = 7 Psychomotor-variant.
+         Mitten-pattern.
+         Puntas_positivas_a_14_y_6_Hz.
+         Spike-and-wave_phamtoms.
+         Small_and_sharp_spikes_(s-s-s).
+         Paroxismos_generalizados_aislados.
+         Ondas_Lambda.
+L22K = 7 0 0 0 0 0 0 0
+L22H = 140 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L22I1D = 1 0
+L22I2D = 1 0
+L22I3D = 1 0
+L22I4D = 1 0
+L22I5D = 1 0
+L22I6D = 1 0
+L22I7D = 1 0
+L22IP = 7 ON ON ON ON ON ON ON
+L22L = 1 14
+L22O = 1 5
+L23T = 1 Sueño_espontáneo:
+L23P = 1 OFF
+L23M = 1 ON
+L23C = 3 Sueño_espontáneo_incidental_en_registro_de_vigilia
+         Sueño_espontáneo_desde_el_inicio_del_registro
+         Períodos_de_vigilia_durante_el_sueño_con:
+L23K = 3 0 0 0
+L23H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L23I1D = 1 24
+L23I2D = 1 24
+L23I3D = 1 152
+L23IP = 3 ON ON ON
+L23L = 9 129 130 133 134 135 136 137 138 139
+L23O = 9 3 1 3 3 3 3 3 3 3
+L24T = 1 Sueño_espontáneo_durante_el_registro:
+L24P = 1 OFF
+L24M = 1 ON
+L24C = 5 Sueño_NREM.
+         y_períodos_de_sueño_REM.
+         con_aspecto_de_sueño_tranquilo
+         y_con_períodos_de_sueño_alternante.
+         Fenómenos_asociados_al_sueño
+L24K = 5 0 0 0 0 0
+L24H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L24I1D = 1 25
+L24I2D = 1 0
+L24I3D = 1 0
+L24I4D = 1 0
+L24I5D = 1 26
+L24IP = 5 OFF ON ON ON ON
+L24L = 7 23 23 57 57 116 116 116
+L24O = 7 1 2 3 4 1 2 3
+L25T = 1 Sueño_NREM:
+L25P = 1 OFF
+L25M = 1 OFF
+L25C = 3 períodos_de_somnolencia_y/o_de_sueño_superficial.
+         tránsito_a_sueño_de_ondas_lentas.
+         tránsito_a_todas_las_etapas_del_sueño_NREM
+L25K = 3 0 0 0
+L25H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L25I1D = 1 0
+L25I2D = 1 0
+L25I3D = 1 0
+L25IP = 3 ON ON ON
+L25L = 1 24
+L25O = 1 1
+L26T = 1 Fenómenos_asociados_al_sueño
+L26P = 1 OFF
+L26M = 1 ON
+L26C = 5 -_hipersincronía_hipnagógica.
+         -_eventos_fásicos_simétricos.
+         -_eventos_fásicos_asimétricos,
+         -_supresión_de_eventos_fásicos,
+         -_asimetría_de_la_actividad_de_base,
+L26K = 5 0 0 0 0 0
+L26H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L26I1D = 1 0
+L26I2D = 1 0
+L26I3D = 1 103
+L26I4D = 1 107
+L26I5D = 1 153
+L26IP = 5 ON ON ON ON ON
+L26L = 1 24
+L26O = 1 5
+L27T = 1 Estudio_de_sueño_inducido:
+L27P = 1 ON
+L27M = 1 ON
+L27C = 4 Profundidad_del_sueño.
+         Fenómenos_asociados_al_sueño.
+         Efecto_del_hipnótico_sobre_el_EEG.
+         Vigilia_al_comienzo_o_durante_el_estudio.
+L27K = 4 0 0 0 0
+L27H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L27I1D = 1 28
+L27I2D = 1 29
+L27I3D = 1 30
+L27I4D = 1 156
+L27IP = 4 OFF OFF OFF OFF
+L27L = 1 132
+L27O = 1 1
+L28T = 1 Profundidad_del_sueño
+L28P = 1 OFF
+L28M = 1 OFF
+L28C = 3 constituído_por_sueño_superficial,
+         constituído_por_sueño_superficial_y_profundo,
+         constituído_por_sueño_profundo,
+L28K = 3 0 0 0
+L28H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L28I1D = 1 91
+L28I2D = 1 91
+L28I3D = 1 91
+L28IP = 3 ON ON ON
+L28L = 1 27
+L28O = 1 1
+L29T = 1 Fenómenos_asociados_al_sueño_inducido:
+L29P = 1 ON
+L29M = 1 ON
+L29C = 6 -_hipersincronía_hipnagógica.
+         -_eventos_fásicos_simétricos.
+         -_eventos_fásicos_asimétricos,
+         -_asimetría_de_la_actividad_de_base,
+         -_supresión_de_eventos_fásicos
+         -_presentación_de_actividad_paroxística
+L29K = 6 0 0 0 0 0 0
+L29H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L29I1D = 1 0
+L29I2D = 1 0
+L29I3D = 1 103
+L29I4D = 1 154
+L29I5D = 1 107
+L29I6D = 1 35
+L29IP = 6 ON ON ON ON ON ON
+L29L = 1 27
+L29O = 1 2
+L30T = 1 Efecto_del_hipnótico_sobre_el_EEG:
+L30P = 1 ON
+L30M = 1 ON
+L30C = 3 -_reforzamiento_de_los_husos_de_sueño
+         -_presentación_de_actividad_rápida_medicamentosa
+         -_con_impregnación_rápida_medicamentosa_por_sobresedación
+L30K = 3 0 0 0
+L30H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L30I1D = 1 106
+L30I2D = 1 31
+L30I3D = 1 31
+L30IP = 3 ON ON ON
+L30L = 1 27
+L30O = 1 3
+L31T = 1 Actividad_rápida_causada_por_hipnóticos:
+L31P = 1 OFF
+L31M = 1 OFF
+L31C = 2 que_se_distribuye_uniformemente
+         con_defecto_de_captación_focal
+L31K = 2 0 0
+L31H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L31I1D = 1 0
+L31I2D = 1 157
+L31IP = 2 ON ON
+L31L = 2 30 30
+L31O = 2 2 3
+L32T = 1 Alteraciones_lentas_del_EEG:
+L32P = 1 OFF
+L32M = 1 ON
+L32C = 3 Como_actividad_lenta_de_primera_magnitud:
+         Como_actividad_lenta_asociada:
+         Otras_formas_de_actividad_lenta_patológica:
+L32K = 3 0 0 0
+L32H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L32I1D = 1 33
+L32I2D = 1 33
+L32I3D = 1 33
+L32IP = 3 ON ON ON
+L32L = 14 129 133 134 135 136 137 138 139 140 141 142 152 156 36
+L32O = 14 4 4 4 4 4 4 4 4 2 2 2 3 3 1
+L33T = 1 Actividad_lenta:
+L33P = 1 OFF
+L33M = 1 ON
+L33C = 3 Tipo.
+         Presentación.
+         Reactividad.
+L33K = 3 0 0 0
+L33H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L33I1D = 1 34
+L33I2D = 1 95
+L33I3D = 1 83
+L33IP = 3 OFF OFF OFF
+L33L = 4 32 32 32 116
+L33O = 4 1 2 3 4
+L34T = 1 Tipo_de_actividad_lenta:
+L34P = 1 OFF
+L34M = 1 OFF
+L34C = 9 Actividad_theta_difusa.
+         Actividad_theta_polimorfa.
+         Actividad_theta_monomorfa.
+         Actividad_theta-delta_polimorfa.
+         Actividad_delta_polimorfa.
+         Actividad_delta_monomorfa.
+         Trazado_alternante.
+         Silencio_eléctrico_cerebral.
+         Hipsarritmia.
+L34K = 9 0 0 0 0 0 0 0 0 0
+L34H = 180 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L34I1D = 1 84
+L34I2D = 1 84
+L34I3D = 1 84
+L34I4D = 1 84
+L34I5D = 1 84
+L34I6D = 1 84
+L34I7D = 1 114
+L34I8D = 1 0
+L34I9D = 1 114
+L34IP = 9 ON ON ON ON ON ON ON ON ON
+L34L = 1 33
+L34O = 1 1
+L35T = 1 Alteraciones_paroxísticas_del_EEG:
+L35P = 1 OFF
+L35M = 1 ON
+L35C = 3 Paroxismos_principales:
+         Paroxismos_secundarios:
+         Otros_tipos_de_paroxismos:
+L35K = 3 0 0 0
+L35H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L35I1D = 1 41
+L35I2D = 1 41
+L35I3D = 1 41
+L35IP = 3 ON ON ON
+L35L = 17 129 133 134 135 136 137 138 139 140 141 142 152 29 156 52 101 36
+L35O = 17 5 5 5 5 5 5 5 5 3 3 3 4 6 4 3 6 2
+L36T = 1 Alteraciones_lentas_y/o_paroxísticas:
+L36P = 1 OFF
+L36M = 1 ON
+L36C = 2 Alteraciones_lentas_de_la_actividad_de_base.
+         Alteraciones_de_tipo_paroxístico.
+L36K = 2 0 0
+L36H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L36I1D = 1 32
+L36I2D = 1 35
+L36IP = 2 OFF OFF
+L36L = 2 130 132
+L36O = 2 2 2
+L37T = 1 Tipo:
+L37P = 1 OFF
+L37M = 1 ON
+L37C = 10 puntas,
+          polipuntas,
+          punta-ondas,
+          punta-ondas_degradadas,
+          polipunta-ondas,
+          punta-ondas_lentas,
+          polipunta-ondas_lentas,
+          ondas_lentas_angulares,
+          complejos_trifásicos,
+          ondas_lentas_de_tipo_paroxístico,
+L37K = 10 0 0 0 0 0 0 0 0 0 0
+L37H = 200 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L37I1D = 1 0
+L37I2D = 1 0
+L37I3D = 1 0
+L37I4D = 1 0
+L37I5D = 1 0
+L37I6D = 1 0
+L37I7D = 1 0
+L37I8D = 1 0
+L37I9D = 1 0
+L37I10D = 1 0
+L37IP = 10 ON ON ON ON ON ON ON ON ON ON
+L37L = 3 159 169 170
+L37O = 3 1 1 1
+L38T = 1 Frecuencia_de_aparición:
+L38P = 1 OFF
+L38M = 1 OFF
+L38C = 2 durante_el_registro_de_la_actividad_de_base.
+         con_las_maniobras_de_activación.
+L38K = 2 0 0
+L38H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L38I1D = 1 118
+L38I2D = 1 119
+L38IP = 2 OFF OFF
+L38L = 1 96
+L38O = 1 1
+L39T = 1 Modo_de_agrupamiento:
+L39P = 1 OFF
+L39M = 1 OFF
+L39C = 9 no_agrupados.
+         con_agrupación_eventual_en_trenes_cortos.
+         con_agrupación_eventual_en_trenes_largos.
+         frecuentemente_agrupados_en_trenes_cortos.
+         frecuentemente_agrupados_en_trenes_de_larga_duración.
+         no_agrupados_y_con_agrupación_eventual_en_trenes_cortos.
+         no_agrupados_y_con_agrupación_eventual_en_trenes_largos.
+         no_agrupados_y_frecuentemente_agrupados_en_trenes_cortos.
+         no_agrupados_y_frecuentemente_agrupados_en_trenes_de_larga_duración.
+L39K = 9 0 0 0 0 0 0 0 0 0
+L39H = 180 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L39I1D = 1 96
+L39I2D = 1 96
+L39I3D = 1 96
+L39I4D = 1 96
+L39I5D = 1 96
+L39I6D = 1 0
+L39I7D = 1 0
+L39I8D = 1 0
+L39I9D = 1 0
+L39IP = 9 ON ON ON ON ON ON ON ON ON
+L39L = 1 94
+L39O = 1 1
+L40T = 1 Relación_entre_estados_funcionales_cerebrales_y_actividad_paroxística:
+L40P = 1 ON
+L40M = 1 ON
+L40C = 10 Los_paroxismos_solo_aparecen_durante_el_sueño_espontáneo.
+          Los_paroxismos_se_incrementan_con_el_sueño.
+          Los_paroxismos_disminuyen_con_el_sueño.
+          Los_paroxismos_desaparecen_con_el_sueño.
+          Los_paroxismos_concomitan_con_trastornos_cognitivos_transitorios.
+          Los_paroxismos_se_atenúan_o_desaparecen_con_la_apertura_de_los_ojos.
+          Los_paroxismos_se_atenúan_o_desaparecen_con_la_actividad_mental.
+          Los_paroxismos_se_incrementan_con_la_actividad_mental.
+          Los_paroxismos_se_atenúan_o_desaparecen_con_la_estimulación_dolorosa.
+          Los_paroxismos_se_incrementan_con_la_estimulación_dolorosa.
+L40K = 10 0 0 0 0 0 0 0 0 0 0
+L40H = 200 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L40I1D = 1 0
+L40I2D = 1 0
+L40I3D = 1 0
+L40I4D = 1 0
+L40I5D = 1 0
+L40I6D = 1 0
+L40I7D = 1 0
+L40I8D = 1 0
+L40I9D = 1 0
+L40I10D = 1 0
+L40IP = 10 ON ON ON ON ON ON ON ON ON ON
+L40L = 1 96
+L40O = 1 2
+L41T = 1 Patrón_de_aparición:
+L41P = 1 OFF
+L41M = 1 OFF
+L41C = 7 intercríticos,
+         críticos,_solo_de_tipo_eléctrico;
+         críticos,_de_tipo_electro-clínico;
+         intercrítico_y_con_crisis_eléctricas,
+         intercrítico_y_con_crisis_electro-clínicas,
+         en_status_eléctrico,
+         en_status_electro-clínico,
+L41K = 7 0 0 0 0 0 0 0
+L41H = 140 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L41I1D = 1 159
+L41I2D = 1 42
+L41I3D = 1 167
+L41I4D = 1 169
+L41I5D = 1 170
+L41I6D = 1 42
+L41I7D = 1 168
+L41IP = 7 ON ON ON ON ON ON ON
+L41L = 5 35 35 35 117 117
+L41O = 5 1 2 3 1 2
+L42T = 1 Tipos_de_crisis_eléctricas:
+L42P = 1 OFF
+L42M = 1 ON
+L42C = 3 Crisis_eléctricas_focales.
+         Crisis_eléctricas_generalizadas.
+         Crisis_eléctricas_generalizadas_de_inicio_focal.
+L42K = 3 0 0 0
+L42H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L42I1D = 1 164
+L42I2D = 1 166
+L42I3D = 1 165
+L42IP = 3 OFF OFF OFF
+L42L = 6 41 167 169 170 41 168
+L42O = 6 2 1 4 4 6 1
+L43T = 1 Fenómenos_asociados_a_las_crisis_eléctricas:
+L43P = 1 ON
+L43M = 1 ON
+L43C = 6 Suppression-bursts_(depresión_post-descargas).
+         Desincronización_previa.
+         Sufrimiento_post-ictal
+         Cambios_EKGráficos.
+         Cambios_de_la_frecuencia_respiratoria.
+         Contaminación_EMGráfica.
+L43K = 6 0 0 0 0 0 0
+L43H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L43I1D = 1 0
+L43I2D = 1 0
+L43I3D = 1 84
+L43I4D = 1 0
+L43I5D = 1 0
+L43I6D = 1 0
+L43IP = 6 ON ON ON ON ON ON
+L43L = 3 164 166 165
+L43O = 3 4 2 4
+L44T = 1 Tipos_de_crisis_clínicas:
+L44P = 1 ON
+L44M = 1 ON
+L44C = 3 Crisis_parciales.
+         Crisis_parciales,_secundariamente_generalizadas
+         Crisis_generalizadas.
+L44K = 3 0 0 0
+L44H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L44I1D = 1 171
+L44I2D = 1 172
+L44I3D = 1 173
+L44IP = 3 OFF OFF OFF
+L44L = 3 167 170 168
+L44O = 3 2 5 2
+L45T = 1 Crisis_parciales:
+L45P = 1 ON
+L45M = 1 ON
+L45C = 5 Crisis_parciales_motoras.
+         Crisis_parciales_sensoriales.
+         Crisis_parciales_autónomicas.
+         Crisis_parciales_psíquicas.
+         Crisis_parciales_complejas.
+L45K = 5 0 0 0 0 0
+L45H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L45I1D = 1 0
+L45I2D = 1 0
+L45I3D = 1 0
+L45I4D = 1 0
+L45I5D = 1 0
+L45IP = 5 ON ON ON ON ON
+L45L = 1 171
+L45O = 1 1
+L46T = 1 Crisis_parciales,_secundariamente_generalizadas:
+L46P = 1 ON
+L46M = 1 ON
+L46C = 5 Crisis_parciales_motoras,_secundariamente_generalizadas.
+         Crisis_parciales_sensoriales,_secundariamente_generalizadas.
+         Crisis_parciales_autonómicas,_secundariamente_generalizadas.
+         Crisis_parciales_psiquícas,_secundariamente_generalizadas.
+         Crisis_parciales_complejas,_secundariamente_generalizadas.
+L46K = 5 0 0 0 0 0
+L46H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L46I1D = 1 0
+L46I2D = 1 0
+L46I3D = 1 0
+L46I4D = 1 0
+L46I5D = 1 0
+L46IP = 5 ON ON ON ON ON
+L46L = 1 172
+L46O = 1 1
+L47T = 1 Crisis_generalizadas:
+L47P = 1 OFF
+L47M = 1 ON
+L47C = 6 Ausencias_típicas_generalizadas.
+         Ausencias_atípicas_generalizadas.
+         Crisis_tónicas_generalizadas.
+         Crisis_clónicas_generalizadas.
+         Crisis_tónico-clónicas_generalizadas.
+         Crisis_con_sólo_perdida_de_la_conciencia.
+L47K = 6 0 0 0 0 0 0
+L47H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L47I1D = 1 0
+L47I2D = 1 0
+L47I3D = 1 0
+L47I4D = 1 0
+L47I5D = 1 0
+L47I6D = 1 0
+L47IP = 6 ON ON ON ON ON ON
+L47L = 1 173
+L47O = 1 1
+L48T = 1 Fenómenos_asociados_a_las_crisis_clínicas:
+L48P = 1 ON
+L48M = 1 ON
+L48C = 10 Automatismos_simples.
+          Conducta_automática_compleja.
+          Sudoración.
+          Dolor_abdominal.
+          Cianosis.
+          Apneas.
+          Asistolia.
+          Relajación_esfinteriana.
+          Estado_confusional_postictal.
+          Sin_fenómenos_concomitantes.
+L48K = 10 0 0 0 0 0 0 0 0 0 0
+L48H = 200 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L48I1D = 1 0
+L48I2D = 1 0
+L48I3D = 1 0
+L48I4D = 1 0
+L48I5D = 1 0
+L48I6D = 1 0
+L48I7D = 1 0
+L48I8D = 1 0
+L48I9D = 1 0
+L48I10D = 1 0
+L48IP = 10 ON ON ON ON ON ON ON ON ON ON
+L48L = 3 171 172 173
+L48O = 3 2 2 2
+L49T = 1 Apertura_de_los_ojos:
+L49P = 1 ON
+L49M = 1 OFF
+L49C = 2 Con_cambios_de_la_actividad_de_base.
+         Sin_cambios_de_la_actividad_de_base.
+L49K = 2 0 0
+L49H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L49I1D = 1 50
+L49I2D = 1 0
+L49IP = 2 OFF ON
+L49L = 1 174
+L49O = 1 1
+L50T = 1 Con_cambios_de_la_actividad_de_base.
+L50P = 1 OFF
+L50M = 1 ON
+L50C = 4 Desincronización_de_la_actividad_de_base.
+         Bloqueo_total_de_la_actividad_lenta_de_base.
+         Bloqueo_parcial_de_la_actividad_lenta_de_base.
+         Bloqueo_de_la_actividad_paroxística.
+L50K = 4 0 0 0 0
+L50H = 80 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L50I1D = 1 0
+L50I2D = 1 0
+L50I3D = 1 0
+L50I4D = 1 0
+L50IP = 4 ON ON ON ON
+L50L = 1 49
+L50O = 1 1
+L51T = 1 Cierre_de_los_ojos:
+L51P = 1 ON
+L51M = 1 OFF
+L51C = 2 Sin_cambios_visibles_del_EEG.
+         Con_cambios_del_EEG.
+L51K = 2 0 0
+L51H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L51I1D = 1 0
+L51I2D = 1 52
+L51IP = 2 ON OFF
+L51L = 1 174
+L51O = 1 2
+L52T = 1 Con_cambios_del_EEG.
+L52P = 1 OFF
+L52M = 1 ON
+L52C = 3 Regreso_al_aspecto_inicial_del_trazado.
+         Mejoría_de_la_modulación_del_ritmo_alfa.
+         Aparición_de_actividad_paroxística.
+L52K = 3 0 0 0
+L52H = 60 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L52I1D = 1 0
+L52I2D = 1 0
+L52I3D = 1 35
+L52IP = 3 ON ON ON
+L52L = 1 51
+L52O = 1 2
+L53T = 1 Otros_tipos_de_estimulación.
+L53P = 1 OFF
+L53M = 1 ON
+L53C = 2 Estímulos_auditivos.
+         Estímulos_dolorosos.
+L53K = 2 0 0
+L53H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L53I1D = 1 54
+L53I2D = 1 55
+L53IP = 2 OFF OFF
+L53L = 1 174
+L53O = 1 3
+L54T = 1 Estímulos_auditivos:
+L54P = 1 ON
+L54M = 1 OFF
+L54C = 2 con_respuesta_desincronizante_de_la_actividad_de_base.
+         sin_modificación_de_la_actividad_de_base.
+L54K = 2 0 0
+L54H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L54I1D = 1 0
+L54I2D = 1 0
+L54IP = 2 ON ON
+L54L = 1 53
+L54O = 1 1
+L55T = 1 Estímulos_nociceptivos:
+L55P = 1 ON
+L55M = 1 OFF
+L55C = 3 con_respuesta_desincronizante_de_la_actividad_de_base.
+         con_incremento_de_la_actividad_lenta_generalizada_de_base.
+         sin_modificación_de_la_actividad_de_base.
+L55K = 3 0 0 0
+L55H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L55I1D = 1 0
+L55I2D = 1 0
+L55I3D = 1 0
+L55IP = 3 ON ON ON
+L55L = 1 53
+L55O = 1 2
+L56T = 1 Hiperventilación:
+L56P = 1 ON
+L56M = 1 OFF
+L56C = 5 No_realizada.
+         Sin_influencia_sobre_el_trazado.
+         Con_cambios_fisiológicos.
+         Con_cambios_patológicos.
+         Con_cambios_fisiológicos_y_patológicos.
+L56K = 5 0 0 0 0 0
+L56H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L56I1D = 1 0
+L56I2D = 1 0
+L56I3D = 1 57
+L56I4D = 1 62
+L56I5D = 1 175
+L56IP = 5 ON ON OFF OFF OFF
+L56L = 1 174
+L56O = 1 4
+L57T = 1 Cambios_fisiológicos:
+L57P = 1 ON
+L57M = 1 ON
+L57C = 4 Relativos_al_ritmo_alfa.
+         Sincronización_del_trazado.
+         Sueño_espontáneo_durante_la_hiperventilación.
+         Sueño_espontáneo_después_de_la_hiperventilación.
+L57K = 4 0 0 0 0
+L57H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L57I1D = 1 58
+L57I2D = 1 59
+L57I3D = 1 24
+L57I4D = 1 24
+L57IP = 4 OFF OFF ON ON
+L57L = 2 56 175
+L57O = 2 3 1
+L58T = 1 Relativos_al_ritmo_alfa:
+L58P = 1 OFF
+L58M = 1 OFF
+L58C = 2 Aparición_del_ritmo_alfa.
+         Mejoría_de_la_modulación_del_ritmo_alfa.
+L58K = 2 0 0
+L58H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L58I1D = 1 0
+L58I2D = 1 0
+L58IP = 2 ON ON
+L58L = 1 57
+L58O = 1 1
+L59T = 1 Sincronización_del_trazado:
+L59P = 1 OFF
+L59M = 1 OFF
+L59C = 3 Sincronización_ligera
+         Sincronización_moderada
+         Marcada_sincronización
+L59K = 3 0 0 0
+L59H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L59I1D = 1 61
+L59I2D = 1 61
+L59I3D = 1 61
+L59IP = 3 ON ON ON
+L59L = 1 57
+L59O = 1 2
+L60T = 1 Reactividad:
+L60P = 1 OFF
+L60M = 1 OFF
+L60C = 3 reactiva_a_la_apertura_de_los_ojos.
+         arreactiva_a_la_apertura_de_los_ojos.
+         cuya_reactividad_no_fue_explorada.
+L60K = 3 0 0 0
+L60H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L60I1D = 1 0
+L60I2D = 1 0
+L60I3D = 1 0
+L60IP = 3 ON ON ON
+L60L = 4 61 61 61 63
+L60O = 4 1 2 3 4
+L61T = 1 Topografía:
+L61P = 1 OFF
+L61M = 1 OFF
+L61C = 3 que_aparece_en_regiones_anteriores_de_ambos_hemisferios,
+         que_aparece_en_regiones_posteriores_de_ambos_hemisferios,
+         que_comprende_todas_las_areas_corticales_en_forma_global,
+L61K = 3 0 0 0
+L61H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L61I1D = 1 60
+L61I2D = 1 60
+L61I3D = 1 60
+L61IP = 3 ON ON ON
+L61L = 3 59 59 59
+L61O = 3 1 2 3
+L62T = 1 Cambios_patológicos:
+L62P = 1 ON
+L62M = 1 ON
+L62C = 2 Sincronización_de_la_actividad_de_base.
+         Presentación_de_paroxismos
+L62K = 2 0 0
+L62H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L62I1D = 1 63
+L62I2D = 1 101
+L62IP = 2 OFF ON
+L62L = 2 56 175
+L62O = 2 4 2
+L63T = 1 Sincronización_de_la_actividad_de_base.
+L63P = 1 OFF
+L63M = 1 ON
+L63C = 5 Magnitud.
+         Distribución.
+         Presentación.
+         Reactividad.
+         Recuperación.
+L63K = 5 0 0 0 0 0
+L63H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L63I1D = 1 64
+L63I2D = 1 84
+L63I3D = 1 121
+L63I4D = 1 60
+L63I5D = 1 100
+L63IP = 5 OFF OFF OFF OFF OFF
+L63L = 1 62
+L63O = 1 1
+L64T = 1 Magnitud:
+L64P = 1 OFF
+L64M = 1 ON
+L64C = 3 Sincronización_ligera_del_trazado
+         Sincronización_moderada_del_trazado
+         Marcada_sincronización_del_trazado
+L64K = 3 0 0 0
+L64H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L64I1D = 1 0
+L64I2D = 1 0
+L64I3D = 1 0
+L64IP = 3 ON ON ON
+L64L = 1 63
+L64O = 1 1
+L65T = 1 IRDA_con_la_hiperventilación:
+L65P = 1 OFF
+L65M = 1 OFF
+L65C = 2 en_regiones_frontales_(FIRDA)
+         en_regiones_occipitales_(OIRDA)
+L65K = 2 0 0
+L65H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L65I1D = 1 0
+L65I2D = 1 0
+L65IP = 2 ON ON
+L65L = 1 121
+L65O = 1 6
+L66T = 1 Fotoestimulación:
+L66P = 1 ON
+L66M = 1 OFF
+L66C = 5 No_realizada.
+         Sin_influencia_sobre_el_trazado.
+         Con_cambios_fisiológicos.
+         Con_cambios_patológicos.
+         Con_cambios_fisiológicos_y_patológicos.
+L66K = 5 0 0 0 0 0
+L66H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L66I1D = 1 0
+L66I2D = 1 0
+L66I3D = 1 67
+L66I4D = 1 70
+L66I5D = 1 176
+L66IP = 5 ON ON OFF OFF OFF
+L66L = 1 174
+L66O = 1 5
+L67T = 1 Con_cambios_fisiológicos:
+L67P = 1 ON
+L67M = 1 ON
+L67C = 3 desincronización_de_la_actividad_de_base
+         reforzamiento_de_la_actividad_de_base
+         seguimiento_estroboscópico
+L67K = 3 0 0 0
+L67H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L67I1D = 1 0
+L67I2D = 1 0
+L67I3D = 1 68
+L67IP = 3 ON ON OFF
+L67L = 2 66 176
+L67O = 2 3 1
+L68T = 1 Seguimiento_estroboscópico:
+L68P = 1 OFF
+L68M = 1 OFF
+L68C = 4 seguimiento_estroboscópico_a_frecuencias_medias
+         seguimiento_estroboscópico_a_frecuencias_bajas_y_medias
+         seguimiento_estroboscópico_a_frecuencias_medias_y_altas
+         seguimiento_estroboscópico_a_todas_las_frecuencias
+L68K = 4 0 0 0 0
+L68H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L68I1D = 1 69
+L68I2D = 1 69
+L68I3D = 1 69
+L68I4D = 1 69
+L68IP = 4 ON ON ON ON
+L68L = 1 67
+L68O = 1 3
+L69T = 1 Tipo_de_seguimiento:
+L69P = 1 OFF
+L69M = 1 OFF
+L69C = 3 (seguimiento_iso-armónico)
+         (seguimiento_sub-armónico)
+         (seguimiento_supra-armónico)
+L69K = 3 0 0 0
+L69H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L69I1D = 1 0
+L69I2D = 1 0
+L69I3D = 1 0
+L69IP = 3 ON ON ON
+L69L = 4 68 68 68 68
+L69O = 4 1 2 3 4
+L70T = 1 Con_cambios_patológicos:
+L70P = 1 ON
+L70M = 1 ON
+L70C = 5 Ausencia_de_respuestas_fisiológicas_en_un_hemisferio.
+         Diferencias_interhemisféricas_en_el_seguimiento_estroboscópico.
+         Seguimiento_estroboscópico_a_bajas_frecuencias.
+         Seguimiento_estroboscópico_a_altas_frecuencias.
+         Fotosensibilidad.
+L70K = 5 0 0 0 0 0
+L70H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L70I1D = 1 102
+L70I2D = 1 102
+L70I3D = 1 89
+L70I4D = 1 89
+L70I5D = 1 71
+L70IP = 5 ON ON ON OFF OFF
+L70L = 2 66 176
+L70O = 2 4 2
+L71T = 1 Fotosensibilidad:
+L71P = 1 ON
+L71M = 1 ON
+L71C = 2 Respuestas_fotosensibles.
+         Aparición_de_paroxismos
+L71K = 2 0 0
+L71H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L71I1D = 1 72
+L71I2D = 1 101
+L71IP = 2 OFF OFF
+L71L = 1 70
+L71O = 1 5
+L72T = 1 Respuestas_fotosensibles:
+L72P = 1 ON
+L72M = 1 ON
+L72C = 3 Respuestas_fotomiológicas.
+         Respuestas_foto-paroxísticas.
+         Respuestas_foto-convulsivas.
+L72K = 3 0 0 0
+L72H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L72I1D = 1 0
+L72I2D = 1 0
+L72I3D = 1 0
+L72IP = 3 ON ON ON
+L72L = 1 71
+L72O = 1 1
+L73T = 1 Artefactos_técnicos:
+L73P = 1 ON
+L73M = 1 ON
+L73C = 7 Interferencia_de_línea_(60_Hz).
+         Mal_contacto_de_los_electrodos_de_registro.
+         Defectos_técnicos_de_los_electrodos_de_registro.
+         Colocación_asimétrica_de_los_electrodos.
+         Defectos_técnicos_de_los_amplificadores.
+         Movimientos_del_paciente.
+         Inducción_de_corrientes_estáticas_parásitas.
+L73K = 7 0 0 0 0 0 0 0
+L73H = 140 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L73I1D = 1 0
+L73I2D = 1 0
+L73I3D = 1 0
+L73I4D = 1 0
+L73I5D = 1 0
+L73I6D = 1 74
+L73I7D = 1 0
+L73IP = 7 ON ON ON ON ON OFF ON
+L73L = 1 177
+L73O = 1 1
+L74T = 1 Movimientos_del_paciente:
+L74P = 1 OFF
+L74M = 1 ON
+L74C = 4 Movimientos_voluntarios_del_paciente
+         Movimientos_involuntarios_del_paciente
+         Movimientos_por_crisis_epilépticas_reales
+         Movimientos_por_crisis_psicógenas
+L74K = 4 0 0 0 0
+L74H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L74I1D = 1 0
+L74I2D = 1 0
+L74I3D = 1 0
+L74I4D = 1 0
+L74IP = 4 ON ON ON ON
+L74L = 1 73
+L74O = 1 6
+L75T = 1 Artefactos_fisiológicos:
+L75P = 1 ON
+L75M = 1 ON
+L75C = 7 Contaminación_EMGráfica.
+         Contaminación_EKGráfica.
+         Parpadeo.
+         Movimientos_oculares.
+         Sudoración.
+         Mecanograma_del_temblor.
+         Pletismograma.
+L75K = 7 0 0 0 0 0 0 0
+L75H = 140 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L75I1D = 1 0
+L75I2D = 1 0
+L75I3D = 1 0
+L75I4D = 1 0
+L75I5D = 1 0
+L75I6D = 1 0
+L75I7D = 1 0
+L75IP = 7 ON ON ON ON ON ON ON
+L75L = 1 177
+L75O = 1 2
+L76T = 1 Aspectos_positivos_de_la_organización_del_EEG:
+L76P = 1 ON
+L76M = 1 ON
+L76C = 9 Electrogénesis_de_amplitud_promedio
+         Electrogénesis_de_gran_amplitud
+         con_gradientes_de_frecuencias_y_de_amplitudes_presentes_y_típicos.
+         con_gradientes_de_frecuencias_y_de_amplitudes_presentes_pero_atípicos.
+         Buena_simetría_entre_regiones_cerebrales_homólogas.
+         Conservación_de_la_reactividad_cortical_y_de_su_especificidad.
+         Conservación_de_la_reactividad_cortical_en_forma_inespecífica.
+         Buena_organización_de_los_ritmos_fundamentales_del_EEG.
+         Actividad_de_base_constituída_por_variantes_fisiológicas.
+L76K = 9 0 0 0 0 0 0 0 0 0
+L76H = 180 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L76I1D = 1 0
+L76I2D = 1 0
+L76I3D = 1 0
+L76I4D = 1 0
+L76I5D = 1 0
+L76I6D = 1 0
+L76I7D = 1 0
+L76I8D = 1 0
+L76I9D = 1 0
+L76IP = 9 ON ON ON ON ON ON ON ON ON
+L76L = 1 79
+L76O = 1 1
+L77T = 1 Trastornos_organizativos_de_la_actividad_de_base:
+L77P = 1 ON
+L77M = 1 ON
+L77C = 9 Trastorno_global_de_la_electrogénesis:
+         Electrogénesis_con_amplitud_disminuída.
+         Sin_diferenciación_topográfica_de_las_frecuencias_del_EEG.
+         Pobre_organización_de_los_ritmos_fundamentales_del_EEG.
+         Ausencia_bilateral_de_los_ritmos_fundamentales_del_EEG.
+         Ausencia_o_atenuación_unilateral_del_ritmo_alfa,
+         Disminución_global_de_la_reactividad_cortical.
+         Asimetría_interhemisférica_patológica:
+         Depresión_global_mantenida_de_la_electrogénesis_cerebral.
+L77K = 9 0 0 0 0 0 0 0 0 0
+L77H = 180 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L77I1D = 1 128
+L77I2D = 1 0
+L77I3D = 1 0
+L77I4D = 1 0
+L77I5D = 1 0
+L77I6D = 1 103
+L77I7D = 1 0
+L77I8D = 1 127
+L77I9D = 1 0
+L77IP = 9 ON ON ON ON ON ON ON ON ON
+L77L = 1 79
+L77O = 1 2
+L78T = 1 Conclusión_general:
+L78P = 1 OFF
+L78M = 1 OFF
+L78C = 5 No_útil,_repítase_el_estudio.
+         EEG_normal.
+         Dentro_de_límites_normales.
+         EEG_anormal.
+         EEG_muy_anormal.
+L78K = 5 0 0 0 0 0
+L78H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L78I1D = 1 0
+L78I2D = 1 0
+L78I3D = 1 79
+L78I4D = 1 79
+L78I5D = 1 79
+L78IP = 5 ON ON ON ON ON
+L78L = 1 0
+L78O = 1 4
+L79T = 1 Conclusiones_semiológicas:
+L79P = 1 OFF
+L79M = 1 ON
+L79C = 6 Rasgos_organizativos_positivos.
+         Trastornos_organizativos_de_la_actividad_de_base.
+         Con_signos_de_sufrimiento_cerebral.
+         Con_signos_de_irritación_cortical.
+         Sin_embargo,_la_significación_semiológica_no_es_apreciable.
+         Sin_conclusiones_semiológicas_de_interés.
+L79K = 6 0 0 0 0 0 0
+L79H = 120 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L79I1D = 1 76
+L79I2D = 1 77
+L79I3D = 1 80
+L79I4D = 1 81
+L79I5D = 1 0
+L79I6D = 1 0
+L79IP = 6 OFF OFF OFF OFF ON ON
+L79L = 3 78 78 78
+L79O = 3 3 4 5
+L80T = 1 Tipo_de_sufrimiento_cerebral:
+L80P = 1 OFF
+L80M = 1 ON
+L80C = 10 Signos_de_sufrimiento_cortical_global_difuso
+          Signos_de_sufrimiento_cortical_del_hemisferio_izquierdo
+          Signos_de_sufrimiento_cortical_del_hemisferio_derecho
+          Signos_de_sufrimiento_cortical_regional
+          Signos_de_sufrimiento_cortical_focal
+          Signos_de_sufrimiento_subcortical_o_funcional_global_difuso
+          Signos_de_sufrimiento_subcortical_o_funcional_hemisférico_o_focal
+          Sufrimiento_de_probable_origen_profundo_o_de_naturaleza_inespecifica
+          Sufrimiento_cerebral_global,_de_probable_causa_metabólica
+          Clasificación_EEGráfica_del_coma:
+L80K = 10 0 0 0 0 0 0 0 0 0 0
+L80H = 200 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L80I1D = 1 109
+L80I2D = 1 109
+L80I3D = 1 109
+L80I4D = 1 178
+L80I5D = 1 179
+L80I6D = 1 109
+L80I7D = 1 180
+L80I8D = 1 109
+L80I9D = 1 109
+L80I10D = 1 108
+L80IP = 10 ON ON ON ON ON ON ON ON ON ON
+L80L = 1 79
+L80O = 1 3
+L81T = 1 Tipo_de_irritación_cortical:
+L81P = 1 OFF
+L81M = 1 ON
+L81C = 6 Signos_de_irritación_cortical_focal_intercrítica
+         Signos_de_irritación_cortical_focal_de_tipo_crítico
+         Signos_de_irritación_cortical_hemisférica_intercrítica
+         Signos_de_irritación_cortical_hemisférica_de_tipo_crítico
+         Signos_de_irritación_cortical_generalizada_intercrítica
+         Signos_de_irritación_cortical_generalizada_de_tipo_crítico
+L81K = 6 0 0 0 0 0 0
+L81H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L81I1D = 1 181
+L81I2D = 1 182
+L81I3D = 1 183
+L81I4D = 1 184
+L81I5D = 1 109
+L81I6D = 1 109
+L81IP = 6 ON ON ON ON ON ON
+L81L = 1 79
+L81O = 1 4
+L82T = 1 Reactividad:
+L82P = 1 OFF
+L82M = 1 OFF
+L82C = 4 reactivo
+         poco_reactivo
+         arreactivo
+         de_reactividad_no_explorada,
+L82K = 4 0 0 0 0
+L82H = 80 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L82I1D = 1 7
+L82I2D = 1 7
+L82I3D = 1 0
+L82I4D = 1 0
+L82IP = 4 ON ON ON ON
+L82L = 4 9 9 9 9
+L82O = 4 1 2 3 4
+L83T = 1 Reactividad:
+L83P = 1 OFF
+L83M = 1 OFF
+L83C = 6 que_se_bloquea_a_la_apertura_de_los_ojos.
+         que_se_bloquea_parcialmente_a_la_apertura_de_los_ojos.
+         que_no_se_bloquea_a_la_apertura_de_los_ojos.
+         que_se_bloquea_con_los_movimientos_voluntarios.
+         que_no_se_bloquea_con_los_movimientos_voluntarios.
+         cuya_reactividad_no_fue_explorada.
+L83K = 6 0 0 0 0 0 0
+L83H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L83I1D = 1 0
+L83I2D = 1 0
+L83I3D = 1 0
+L83I4D = 1 0
+L83I5D = 1 0
+L83I6D = 1 0
+L83IP = 6 ON ON ON ON ON ON
+L83L = 9 144 145 146 147 148 17 19 21 33
+L83O = 9 2 2 2 2 2 4 3 3 3
+L84T = 1 Distribución:
+L84P = 1 OFF
+L84M = 1 OFF
+L84C = 6 Regional.
+         en_todo_el_hemisferio_izquierdo,
+         en_todo_el_hemisferio_derecho,
+         Global
+         global,_con_predominio_focal
+         Focal
+L84K = 6 0 0 0 0 0 0
+L84H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L84I1D = 1 87
+L84I2D = 1 0
+L84I3D = 1 0
+L84I4D = 1 85
+L84I5D = 1 150
+L84I6D = 1 151
+L84IP = 6 OFF ON ON OFF ON OFF
+L84L = 12 15 17 19 21 34 34 34 34 34 34 43 63
+L84O = 12 1 2 1 1 1 2 3 4 5 6 3 2
+L85T = 1 Global:
+L85P = 1 OFF
+L85M = 1 OFF
+L85C = 3 generalizada
+         difusa
+         global
+L85K = 3 0 0 0
+L85H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L85I1D = 1 91
+L85I2D = 1 91
+L85I3D = 1 0
+L85IP = 3 ON ON ON
+L85L = 1 84
+L85O = 1 4
+L86T = 1 Distribución:
+L86P = 1 OFF
+L86M = 1 OFF
+L86C = 7 generalizados,
+         en_todas_las_derivaciones_en_forma_difusa,
+         generalizados_con_predominio_focal,
+         en_todo_el_hemisferio_izquierdo,
+         en_todo_el_hemisferio_derecho,
+         focales,
+         multifocales,
+L86K = 7 0 0 0 0 0 0 0
+L86H = 140 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L86I1D = 1 94
+L86I2D = 1 160
+L86I3D = 1 161
+L86I4D = 1 94
+L86I5D = 1 94
+L86I6D = 1 162
+L86I7D = 1 163
+L86IP = 7 ON ON ON ON ON ON ON
+L86L = 3 159 169 170
+L86O = 3 2 2 2
+L87T = 1 Regional:
+L87P = 1 OFF
+L87M = 1 OFF
+L87C = 5 en_regiones_anteriores,
+         en_regiones_medias,
+         en_regiones_posteriores,
+         en_regiones_anteriores_y_medias,
+         en_regiones_medias_y_posteriores,
+L87K = 5 0 0 0 0 0
+L87H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L87I1D = 1 106
+L87I2D = 1 106
+L87I3D = 1 106
+L87I4D = 1 106
+L87I5D = 1 106
+L87IP = 5 ON ON ON ON ON
+L87L = 1 84
+L87O = 1 1
+L88T = 1 que_se_focaliza(n)_en:
+L88P = 1 ON
+L88M = 1 ON
+L88C = 9 región_frontopolar,
+         región_frontal_superior,
+         región_frontal_inferior,
+         región_central,
+         región_parietal,
+         línea_media,
+         región_temporal_anterior,
+         región_temporal_posterior,
+         región_occipital,
+L88K = 9 0 0 0 0 0 0 0 0 0
+L88H = 180 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L88I1D = 1 0
+L88I2D = 1 0
+L88I3D = 1 0
+L88I4D = 1 0
+L88I5D = 1 0
+L88I6D = 1 0
+L88I7D = 1 0
+L88I8D = 1 0
+L88I9D = 1 0
+L88IP = 9 ON ON ON ON ON ON ON ON ON
+L88L = 9 150 151 155 157 161 162 163 164 165
+L88O = 9 1 1 1 1 1 1 1 2 2
+L89T = 1 Lateralidad:
+L89P = 1 OFF
+L89M = 1 OFF
+L89C = 3 de_ambos_hemisferios,
+         del_hemisferio_izquierdo,
+         del_hemisferio_derecho,
+L89K = 3 0 0 0
+L89H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L89I1D = 1 90
+L89I2D = 1 0
+L89I3D = 1 0
+L89IP = 3 ON ON ON
+L89L = 11 150 151 155 157 161 162 163 164 165 70 70
+L89O = 11 2 2 2 2 2 2 2 3 3 3 4
+L90T = 1 Presentación_bilateral:
+L90P = 1 OFF
+L90M = 1 ON
+L90C = 6 a_elementos_simétricos_y_sincrónicos,
+         a_elementos_asimétricos,
+         con_presentación_alternante,
+         con_predominio_alternante,
+         más_notable_en_el_hemisferio_izquierdo.
+         más_notable_en_el_hemisferio_derecho.
+L90K = 6 0 0 0 0 0 0
+L90H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L90I1D = 1 0
+L90I2D = 1 0
+L90I3D = 1 0
+L90I4D = 1 0
+L90I5D = 1 0
+L90I6D = 1 0
+L90IP = 6 ON ON ON ON ON ON
+L90L = 2 89 160
+L90O = 2 1 1
+L91T = 1 Simetría:
+L91P = 1 OFF
+L91M = 1 OFF
+L91C = 2 de_aspecto_simétrico_en_ambos_hemisferios.
+         de_aspecto_asimétrico:
+L91K = 2 0 0
+L91H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L91I1D = 1 0
+L91I2D = 1 143
+L91IP = 2 ON OFF
+L91L = 9 7 7 85 85 19 21 28 28 28
+L91O = 9 1 2 1 2 4 4 1 2 3
+L92T = 1 Tipo_de_asimetría:
+L92P = 1 OFF
+L92M = 1 ON
+L92C = 9 más_lento
+         más_rápido
+         menos_amplio(s)
+         más_amplio(s)
+         peor_modulado
+         mejor_modulado
+         menos_reactivo_o_sin_reactividad
+         más_abundante(s)
+         menos_abundante(s)
+L92K = 9 0 0 0 0 0 0 0 0 0
+L92H = 180 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L92I1D = 1 0
+L92I2D = 1 0
+L92I3D = 1 0
+L92I4D = 1 0
+L92I5D = 1 0
+L92I6D = 1 0
+L92I7D = 1 0
+L92I8D = 1 0
+L92I9D = 1 0
+L92IP = 9 ON ON ON ON ON ON ON ON ON
+L92L = 5 143 149 153 154 158
+L92O = 5 1 1 1 1 1
+L93T = 1 Propagación:
+L93P = 1 OFF
+L93M = 1 OFF
+L93C = 6 con_propagación_simétrica.
+         con_propagación_ipsilateral.
+         con_propagación_ipsi_y_contralateral.
+         con_hemigeneralización_secundaria.
+         con_generalización_secundaria.
+         sin_propagación.
+L93K = 6 0 0 0 0 0 0
+L93H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L93I1D = 1 0
+L93I2D = 1 0
+L93I3D = 1 0
+L93I4D = 1 0
+L93I5D = 1 0
+L93I6D = 1 0
+L93IP = 6 ON ON ON ON ON ON
+L93L = 3 159 169 170
+L93O = 3 3 3 3
+L94T = 1 Repetición:
+L94P = 1 OFF
+L94M = 1 ON
+L94C = 4 como_elementos_aislados
+         en_trenes_de_elementos_rítmicos
+         en_trenes_de_elementos_periódicos
+         en_trenes_de_elementos_pseudo-periódicos
+L94K = 4 0 0 0 0
+L94H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L94I1D = 1 39
+L94I2D = 1 98
+L94I3D = 1 99
+L94I4D = 1 99
+L94IP = 4 ON ON ON ON
+L94L = 7 86 160 161 86 86 162 163
+L94O = 7 1 2 3 4 5 3 3
+L95T = 1 Presentación:
+L95P = 1 OFF
+L95M = 1 ON
+L95C = 5 en_forma_continua,
+         en_forma_subcontinua,
+         en_forma_intermitente,
+         en_forma_fluctuante,
+         en_forma_sobreimpuesta,
+L95K = 5 0 0 0 0 0
+L95H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L95I1D = 1 0
+L95I2D = 1 0
+L95I3D = 1 0
+L95I4D = 1 0
+L95I5D = 1 0
+L95IP = 5 ON ON ON ON ON
+L95L = 11 15 17 20 20 20 115 115 115 115 115 33
+L95O = 11 2 3 1 2 3 1 3 4 5 6 2
+L96T = 1 Presentación:
+L96P = 1 OFF
+L96M = 1 ON
+L96C = 2 Frecuencia_de_aparición.
+         Relación_con_estados_funcionales_cerebrales.
+L96K = 2 0 0
+L96H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L96I1D = 1 38
+L96I2D = 1 40
+L96IP = 2 OFF OFF
+L96L = 12 39 39 39 39 39 98 98 98 99 99 99 99
+L96O = 12 1 2 3 4 5 1 2 3 1 2 3 4
+L97T = 1 Amplitud:
+L97P = 1 OFF
+L97M = 1 OFF
+L97C = 3 de_baja_amplitud,
+         de_amplitud_moderada,
+         de_gran_amplitud,
+L97K = 3 0 0 0
+L97H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L97I1D = 1 0
+L97I2D = 1 0
+L97I3D = 1 0
+L97IP = 3 ON ON ON
+L97L = 3 15 18 18
+L97O = 3 3 1 2
+L98T = 1 Elementos_rítmicos:
+L98P = 1 OFF
+L98M = 1 OFF
+L98C = 3 a_3/seg,
+         a_más_de_3/seg,
+         a_menos_de_3/seg,
+L98K = 3 0 0 0
+L98H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L98I1D = 1 96
+L98I2D = 1 96
+L98I3D = 1 96
+L98IP = 3 ON ON ON
+L98L = 1 94
+L98O = 1 2
+L99T = 1 Elementos_periódicos:
+L99P = 1 OFF
+L99M = 1 ON
+L99C = 4 a_1/seg,
+         cada_2-5_seg,
+         cada_5-10_seg,
+         a_más_de_10_seg,
+L99K = 4 0 0 0 0
+L99H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L99I1D = 1 96
+L99I2D = 1 96
+L99I3D = 1 96
+L99I4D = 1 96
+L99IP = 4 ON ON ON ON
+L99L = 2 94 94
+L99O = 2 3 4
+L100T = 1 Recuperación:
+L100P = 1 OFF
+L100M = 1 ON
+L100C = 2 con_rápida_recuperación.
+          con_recuperación_demorada.
+L100K = 2 0 0
+L100H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L100I1D = 1 0
+L100I2D = 1 0
+L100IP = 2 ON ON
+L100L = 1 63
+L100O = 1 5
+L101T = 1 Modo_de_aparición_de_los_paroxismos:
+L101P = 1 OFF
+L101M = 1 OFF
+L101C = 6 que_aparecen_por_primera_vez_con_la_maniobra:
+          con_incremento_de_su_amplitud_y/o_su_abundancia_debido_a_la_maniobra,
+          con_modificación_de_todas_sus_características_a_causa_de_la_maniobra:
+          que_no_modifican_sus_características_con_la_maniobra,
+          que_aparecen_por_primera_vez_durante_la_recuparación_de_la_maniobra,
+          con_incremento_de_su_amplitud_y/o_su_abundancia_durante_la_recuperación,
+L101K = 6 0 0 0 0 0 0
+L101H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L101I1D = 1 117
+L101I2D = 1 0
+L101I3D = 1 117
+L101I4D = 1 0
+L101I5D = 1 117
+L101I6D = 1 35
+L101IP = 6 ON ON ON ON ON ON
+L101L = 3 62 71 116
+L101O = 3 2 2 5
+L102T = 1 Hemisferio_afectado:
+L102P = 1 OFF
+L102M = 1 OFF
+L102C = 2 peor_organizado_en_el_hemisferio_izquierdo,
+          peor_organizado_en_el_hemisferio_derecho,
+L102K = 2 0 0
+L102H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L102I1D = 1 0
+L102I2D = 1 0
+L102IP = 2 ON ON
+L102L = 3 70 70 127
+L102O = 3 1 2 1
+L103T = 1 Hemisferio_afectado:
+L103P = 1 OFF
+L103M = 1 ON
+L103C = 6 ausente(s)_en_el_hemisferio_izquierdo,
+          ausente(s)_en_el_hemisferio_derecho,
+          menos_amplio(s)_en_el_hemisferio_izquierdo.
+          menos_amplio(s)_en_el_hemisferio_derecho.
+          ausente(s)_y_menos_amplio(s)_en_el_hemisferio_izquierdo.
+          ausente(s)_y_menos_amplio(s)_en_el_hemisferio_derecho.
+L103K = 6 0 0 0 0 0 0
+L103H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L103I1D = 1 0
+L103I2D = 1 0
+L103I3D = 1 0
+L103I4D = 1 0
+L103I5D = 1 0
+L103I6D = 1 0
+L103IP = 6 ON ON ON ON ON ON
+L103L = 3 26 29 77
+L103O = 3 3 3 6
+L104T = 1 Hemisferio_afectado:
+L104P = 1 OFF
+L104M = 1 OFF
+L104C = 2 menos_amplio(s)_en_el_hemisferio_izquierdo.
+          menos_amplio(s)_en_el_hemisferio_derecho.
+L104K = 2 0 0
+L104H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L104I1D = 1 0
+L104I2D = 1 0
+L104IP = 2 ON ON
+L104L = 1 127
+L104O = 1 3
+L105T = 1 Localización:
+L105P = 1 OFF
+L105M = 1 ON
+L105C = 10 en_la_región_anterior
+           en_las_regiones_medias
+           en_la_región_posterior
+           en_la_región_antero-lateral
+           en_las_regiones_media_y_lateral
+           en_la_región_postero-lateral
+           en_la_línea_media_anterior.
+           en_la_línea_media_posterior.
+           en_todo_el_hemisferio_izquierdo.
+           en_todo_el_hemisferio_derecho.
+L105K = 10 0 0 0 0 0 0 0 0 0 0
+L105H = 200 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L105I1D = 1 107
+L105I2D = 1 107
+L105I3D = 1 107
+L105I4D = 1 107
+L105I5D = 1 107
+L105I6D = 1 107
+L105I7D = 1 0
+L105I8D = 1 0
+L105I9D = 1 0
+L105I10D = 1 0
+L105IP = 10 ON ON ON ON ON ON ON ON ON ON
+L105L = 6 143 178 179 180 181 182
+L105O = 6 2 2 2 2 2 2
+L106T = 1 Simetría:
+L106P = 1 OFF
+L106M = 1 OFF
+L106C = 2 que_ocurre_en_forma_simétrica_en_ambos_hemisferios.
+          de_aspecto_asimétrico:
+L106K = 2 0 0
+L106H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L106I1D = 1 0
+L106I2D = 1 149
+L106IP = 2 ON OFF
+L106L = 6 87 87 87 87 87 30
+L106O = 6 1 2 3 4 5 1
+L107T = 1 Lateralidad:
+L107P = 1 OFF
+L107M = 1 OFF
+L107C = 3 del_hemisferio_izquierdo
+          del_hemisferio_derecho
+          de_ambos_hemisferios
+L107K = 3 0 0 0
+L107H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L107I1D = 1 0
+L107I2D = 1 0
+L107I3D = 1 0
+L107IP = 3 ON ON ON
+L107L = 17 105 105 105 105 105 105 144 145 146 147 148 149 26 29 158 183 184
+L107O = 17 1 2 3 4 5 6 1 1 1 1 1 2 4 5 2 2 2
+L108T = 1 Clasificación_EEGráfica_del_coma:
+L108P = 1 OFF
+L108M = 1 OFF
+L108C = 5 El_aspecto_del_EEG_corresponde_al_coma_fase_1.
+          El_aspecto_del_EEG_corresponde_al_coma_fase_2.
+          El_aspecto_del_EEG_corresponde_al_coma_fase_3.
+          El_aspecto_del_EEG_corresponde_al_coma_fase_4.
+          El_aspecto_del_EEG_corresponde_al_coma_fase_5.
+L108K = 5 0 0 0 0 0
+L108H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L108I1D = 1 0
+L108I2D = 1 0
+L108I3D = 1 0
+L108I4D = 1 0
+L108I5D = 1 0
+L108IP = 5 ON ON ON ON ON
+L108L = 1 80
+L108O = 1 10
+L109T = 1 Magnitud_de_las_alteraciones_del_EEG:
+L109P = 1 OFF
+L109M = 1 OFF
+L109C = 3 de_ligera_intensidad.
+          de_intensidad_moderada.
+          de_marcada_intensidad.
+L109K = 3 0 0 0
+L109H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L109I1D = 1 0
+L109I2D = 1 0
+L109I3D = 1 0
+L109IP = 3 ON ON ON
+L109L = 15 80 80 80 178 179 80 180 80 80 181 182 183 184 81 81
+L109O = 15 1 2 3 1 1 6 1 8 9 1 1 1 1 5 6
+L110T = 1 Modulación:
+L110P = 1 OFF
+L110M = 1 OFF
+L110C = 4 bien_modulado,
+          pobremente_modulado,
+          con_mala_modulación,
+          con_aspecto_polirrítmico,
+L110K = 4 0 0 0 0
+L110H = 80 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L110I1D = 1 111
+L110I2D = 1 111
+L110I3D = 1 111
+L110I4D = 1 111
+L110IP = 4 ON ON ON ON
+L110L = 2 8 8
+L110O = 2 2 3
+L111T = 1 Reactividad:
+L111P = 1 OFF
+L111M = 1 OFF
+L111C = 4 reactivo
+          poco_reactivo
+          arreactivo
+          de_reactividad_no_explorada,
+L111K = 4 0 0 0 0
+L111H = 80 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L111I1D = 1 112
+L111I2D = 1 112
+L111I3D = 1 112
+L111I4D = 1 0
+L111IP = 4 ON ON ON ON
+L111L = 4 110 110 110 110
+L111O = 4 1 2 3 4
+L112T = 1 Habituación:
+L112P = 1 OFF
+L112M = 1 OFF
+L112C = 2 habituable,
+          sin_habituación,
+L112K = 2 0 0
+L112H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L112I1D = 1 0
+L112I2D = 1 0
+L112IP = 2 ON ON
+L112L = 3 111 111 111
+L112O = 3 1 2 3
+L113T = 1 Distribución:
+L113P = 1 OFF
+L113M = 1 OFF
+L113C = 3 en_todo_el_hemisferio_izquierdo,
+          en_todo_el_hemisferio_derecho,
+          Focal
+L113K = 3 0 0 0
+L113H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L113I1D = 1 0
+L113I2D = 1 0
+L113I3D = 1 155
+L113IP = 3 ON ON OFF
+L113L = 2 153 154
+L113O = 2 2 2
+L114T = 1 Distribución:
+L114P = 1 OFF
+L114M = 1 OFF
+L114C = 3 Global
+          sólo_en_el_hemisferio_izquierdo,
+          sólo_en_el_hemisferio_derecho,
+L114K = 3 0 0 0
+L114H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L114I1D = 1 115
+L114I2D = 1 0
+L114I3D = 1 0
+L114IP = 3 OFF ON ON
+L114L = 2 34 34
+L114O = 2 7 9
+L115T = 1 Presentación_global:
+L115P = 1 OFF
+L115M = 1 ON
+L115C = 6 en_forma_simétrica_en_ambos_hemisferios,
+          en_forma_asimétrica,
+          con_presentación_alternante,
+          con_predominio_alternante,
+          más_notable_en_el_hemisferio_izquierdo.
+          más_notable_en_el_hemisferio_derecho.
+L115K = 6 0 0 0 0 0 0
+L115H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L115I1D = 1 95
+L115I2D = 1 158
+L115I3D = 1 95
+L115I4D = 1 95
+L115I5D = 1 95
+L115I6D = 1 95
+L115IP = 6 ON ON ON ON ON ON
+L115L = 1 114
+L115O = 1 1
+L116T = 1 Sueño_de_siesta:
+L116P = 1 OFF
+L116M = 1 OFF
+L116C = 5 Sueño_de_siesta_con_privación_previa_de_sueño,_compuesto_por
+          Sueño_de_siesta_sin_privación_previa_de_sueño,_compuesto_por
+          Sueño_de_siesta_inducido_por_farmacos,_compuesto_por
+          Aparición_de_actividad_lenta_asimétrica:
+          Aparición_de_actividad_paroxística:
+L116K = 5 0 0 0 0 0
+L116H = 100 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L116I1D = 1 24
+L116I2D = 1 24
+L116I3D = 1 24
+L116I4D = 1 33
+L116I5D = 1 101
+L116IP = 5 ON ON ON ON ON
+L116L = 1 174
+L116O = 1 6
+L117T = 1 Alteraciones_paroxísticas_del_EEG:
+L117P = 1 OFF
+L117M = 1 ON
+L117C = 2 Paroxismos_principales:
+          Paroxismos_secundarios:
+L117K = 2 0 0
+L117H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L117I1D = 1 41
+L117I2D = 1 41
+L117IP = 2 ON ON
+L117L = 3 101 101 101
+L117O = 3 1 3 5
+L118T = 1 Frecuencia_de_aparición:
+L118P = 1 OFF
+L118M = 1 OFF
+L118C = 6 muy_escasos_en_el_registro,
+          poco_frecuentes_en_el_registro,
+          de_frecuente_aparición_en_el_registro,
+          muy_frecuentes_en_el_registro,
+          casi_contínuos_en_el_registro,
+          que_aparecen_continuamente_durante_el_registro,
+L118K = 6 0 0 0 0 0 0
+L118H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L118I1D = 1 0
+L118I2D = 1 0
+L118I3D = 1 0
+L118I4D = 1 0
+L118I5D = 1 0
+L118I6D = 1 0
+L118IP = 6 ON ON ON ON ON ON
+L118L = 1 38
+L118O = 1 1
+L119T = 1 Frecuencia_de_aparición:
+L119P = 1 OFF
+L119M = 1 OFF
+L119C = 6 muy_escasos_durante_la_maniobra.
+          poco_frecuentes_durante_la_maniobra.
+          de_frecuente_aparición_durante_la_maniobra.
+          muy_frecuentes_durante_la_maniobra.
+          casi_contínuos_durante_la_maniobra.
+          que_aparecen_continuamente_durante_el_registro.
+L119K = 6 0 0 0 0 0 0
+L119H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L119I1D = 1 0
+L119I2D = 1 0
+L119I3D = 1 0
+L119I4D = 1 0
+L119I5D = 1 0
+L119I6D = 1 0
+L119IP = 6 ON ON ON ON ON ON
+L119L = 1 38
+L119O = 1 2
+L120T = 1 Duración_de_la_crisis:
+L120P = 1 OFF
+L120M = 1 ON
+L120C = 4 con_una_duración_promedio_de
+          segundos.
+          minutos.
+          con_duración_difícil_de_precisar.
+L120K = 4 1 0 0 0
+L120H = 80 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L120I1A = 1 0.00000000000000E+0000
+L120I2D = 1 0
+L120I3D = 1 0
+L120I4D = 1 0
+L120IP = 4 ON ON ON ON
+L120L = 20 123 123 123 123 123 123 123 124 124 124 124 124 124 124 125 125 125 125 125 125
+L120O = 20 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6
+L121T = 1 Presentación_de_la_sincronización:
+L121P = 1 OFF
+L121M = 1 ON
+L121C = 6 en_forma_contínua_durante_la_maniobra,
+          en_forma_subcontínua_durante_la_maniobra,
+          en_forma_intermitente_durante_la_maniobra,
+          en_forma_fluctuante,
+          en_forma_sobreimpuesta,
+          con_aparición_de_IRDA
+L121K = 6 0 0 0 0 0 0
+L121H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L121I1D = 1 0
+L121I2D = 1 0
+L121I3D = 1 0
+L121I4D = 1 0
+L121I5D = 1 0
+L121I6D = 1 65
+L121IP = 6 ON ON ON ON ON ON
+L121L = 1 63
+L121O = 1 3
+L122T = 1 Características_del_ritmo:
+L122P = 1 OFF
+L122M = 1 ON
+L122C = 3 Frecuencia_(Hz):
+          Amplitud_(McV):
+          Topografía.
+L122K = 3 1 1 0
+L122H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L122I1A = 1 0.00000000000000E+0000
+L122I2A = 1 0.00000000000000E+0000
+L122I3D = 1 12
+L122IP = 3 ON ON OFF
+L122L = 2 3 10
+L122O = 2 2 2
+L123T = 1 Crisis_eléctricas_focales:
+L123P = 1 OFF
+L123M = 1 ON
+L123C = 7 *_microcrisis_reclutantes_focales,
+          *_crisis_reclutantes_focales_con_puntas_rítmicas_a_10_Hz,
+          *_crisis_reclutantes_focales_+_patron_rítmico_a_P-O_y/o_a_PP-O,
+          *_crisis_focales_a_P-O_y/o_a_PP-O,
+          *_crisis_focales_a_P-O_lentas_rítmicas_o_cuasi-rítmicas,
+          *_crisis_focales_a_elementos_rítmicos_theta_or_delta,
+          *_desincronización_o_depresión_focal_de_la_electrogénesis_de_tipo_crítico,
+L123K = 7 0 0 0 0 0 0 0
+L123H = 140 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L123I1D = 1 120
+L123I2D = 1 120
+L123I3D = 1 120
+L123I4D = 1 120
+L123I5D = 1 120
+L123I6D = 1 120
+L123I7D = 1 120
+L123IP = 7 ON ON ON ON ON ON ON
+L123L = 1 164
+L123O = 1 1
+L124T = 1 Crisis_eléctricas_generalizadas:
+L124P = 1 OFF
+L124M = 1 ON
+L124C = 7 *_microcrisis_reclutantes_generalizadas,
+          *_crisis_reclutantes_generalizadas_con_puntas_rítmicas_a_10_Hz,
+          *_crisis_generalizadas_típicas_a_P-O_a_3/seg.,
+          *_patron_crítico_generalizado_atípico_a_P-O_o_a_mezcla_de_paroxismos,
+          *_crisis_generalizadas_a_punta-ondas_lentas,
+          *_crisis_generalizadas_a_elementos_rítmicos_theta_or_delta,
+          *_crisis_de_desincronización_o_depresión_generalizadas_de_la_electrogénesis,
+L124K = 7 0 0 0 0 0 0 0
+L124H = 140 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L124I1D = 1 120
+L124I2D = 1 120
+L124I3D = 1 120
+L124I4D = 1 120
+L124I5D = 1 120
+L124I6D = 1 120
+L124I7D = 1 120
+L124IP = 7 ON ON ON ON ON ON ON
+L124L = 1 166
+L124O = 1 1
+L125T = 1 Crisis_eléctricas_generalizadas_de_inicio_focal:
+L125P = 1 OFF
+L125M = 1 ON
+L125C = 6 *_microcrisis_reclutantes_generalizadas_de_inicio_focal
+          *_crisis_reclutantes_generalizadas_de_inicio_focal
+          *_crisis_generalizadas_típicas_a_P-O_a_3/seg.,__de_inicio_focal
+          *_patron_crítico_generalizado_atípico_a_P-O,_de_inicio_focal
+          *_crisis_generalizadas_a_punta-ondas_lentas,_de_inicio_focal
+          *_crisis_generalizadas_a_elementos_rítmicos_theta_or_delta,_de_inicio_focal
+L125K = 6 0 0 0 0 0 0
+L125H = 120 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+            OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L125I1D = 1 120
+L125I2D = 1 120
+L125I3D = 1 120
+L125I4D = 1 120
+L125I5D = 1 120
+L125I6D = 1 120
+L125IP = 6 ON ON ON ON ON ON
+L125L = 1 165
+L125O = 1 1
+L126T = 1 Hemisferio_afectado:
+L126P = 1 OFF
+L126M = 1 OFF
+L126C = 2 más_lento_en_el_hemisferio_izquierdo,
+          más_lento_en_el_hemisferio_derecho,
+L126K = 2 0 0
+L126H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L126I1D = 1 0
+L126I2D = 1 0
+L126IP = 2 ON ON
+L126L = 1 127
+L126O = 1 2
+L127T = 1 Asimetría_interhemisférica_patológica:
+L127P = 1 OFF
+L127M = 1 ON
+L127C = 3 en_calidad_organizativa
+          en_frecuencia
+          en_amplitud
+L127K = 3 0 0 0
+L127H = 60 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L127I1D = 1 102
+L127I2D = 1 126
+L127I3D = 1 104
+L127IP = 3 OFF OFF OFF
+L127L = 1 77
+L127O = 1 8
+L128T = 1 Trastorno_global_de_la_electrogénesis:
+L128P = 1 OFF
+L128M = 1 ON
+L128C = 5 -_electrogénesis_con_amplitud_disminuída.
+          -_sin_diferenciación_topográfica_de_la_composición_de_fecuencias_del_EEG.
+          -_ausencia_bilateral_de_los_rítmos_fundamentales_del_EEG.
+          -_actividad_theta_difusa_global_contínua_o_subcontínua.
+          -_disminución_global_de_la_reactividad_cortical.
+L128K = 5 0 0 0 0 0
+L128H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L128I1D = 1 0
+L128I2D = 1 0
+L128I3D = 1 0
+L128I4D = 1 0
+L128I5D = 1 0
+L128IP = 5 ON ON ON ON ON
+L128L = 1 77
+L128O = 1 1
+L129T = 1 Vigil.
+L129P = 1 OFF
+L129M = 1 ON
+L129C = 5 Ritmos_EEGráficos_fundamentales:
+          Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Sueño_espontáneo:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L129K = 5 0 0 0 0 0
+L129H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L129I1D = 1 3
+L129I2D = 1 13
+L129I3D = 1 23
+L129I4D = 1 32
+L129I5D = 1 35
+L129IP = 5 OFF OFF OFF OFF OFF
+L129L = 1 1
+L129O = 1 1
+L130T = 1 Sueño_espontáneo.
+L130P = 1 OFF
+L130M = 1 ON
+L130C = 2 Sueño_espontáneo:
+          Alteraciones_lentas_y/o_paroxísticas.
+L130K = 2 0 0
+L130H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L130I1D = 1 23
+L130I2D = 1 36
+L130IP = 2 OFF OFF
+L130L = 1 1
+L130O = 1 2
+L131T = 1 Sueño_espontáneo.
+L131P = 1 OFF
+L131M = 1 ON
+L131C = 2 Sueño_espontáneo:
+          Alteraciones_lentas_y/o_paroxísticas.
+L131K = 2 0 0
+L131H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L131I1D = 1 0
+L131I2D = 1 0
+L131IP = 2 OFF OFF
+L132T = 1 Sueño_inducido.
+L132P = 1 OFF
+L132M = 1 ON
+L132C = 2 Estudio_de_sueño_inducido:
+          Alteraciones_lentas_y/o_paroxísticas.
+L132K = 2 0 0
+L132H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L132I1D = 1 27
+L132I2D = 1 36
+L132IP = 2 OFF OFF
+L132L = 1 1
+L132O = 1 3
+L133T = 1 Desorientado_autopsiquicamente.
+L133P = 1 OFF
+L133M = 1 ON
+L133C = 5 Ritmos_EEGráficos_fundamentales:
+          Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Sueño_espontáneo:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L133K = 5 0 0 0 0 0
+L133H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L133I1D = 1 3
+L133I2D = 1 13
+L133I3D = 1 23
+L133I4D = 1 32
+L133I5D = 1 35
+L133IP = 5 OFF OFF OFF OFF OFF
+L133L = 1 2
+L133O = 1 1
+L134T = 1 Desorientado_alopsiquicamente.
+L134P = 1 OFF
+L134M = 1 ON
+L134C = 5 Ritmos_EEGráficos_fundamentales:
+          Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Sueño_espontáneo:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L134K = 5 0 0 0 0 0
+L134H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L134I1D = 1 3
+L134I2D = 1 13
+L134I3D = 1 23
+L134I4D = 1 32
+L134I5D = 1 35
+L134IP = 5 OFF OFF OFF OFF OFF
+L134L = 1 2
+L134O = 1 2
+L135T = 1 Desorientado_en_espacio.
+L135P = 1 OFF
+L135M = 1 ON
+L135C = 5 Ritmos_EEGráficos_fundamentales:
+          Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Sueño_espontáneo:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L135K = 5 0 0 0 0 0
+L135H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L135I1D = 1 3
+L135I2D = 1 13
+L135I3D = 1 23
+L135I4D = 1 32
+L135I5D = 1 35
+L135IP = 5 OFF OFF OFF OFF OFF
+L135L = 1 2
+L135O = 1 3
+L136T = 1 Desorientado_en_posición.
+L136P = 1 OFF
+L136M = 1 ON
+L136C = 5 Ritmos_EEGráficos_fundamentales:
+          Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Sueño_espontáneo:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L136K = 5 0 0 0 0 0
+L136H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L136I1D = 1 3
+L136I2D = 1 13
+L136I3D = 1 23
+L136I4D = 1 32
+L136I5D = 1 35
+L136IP = 5 OFF OFF OFF OFF OFF
+L136L = 1 2
+L136O = 1 4
+L137T = 1 Desorientado_en_tiempo.
+L137P = 1 OFF
+L137M = 1 ON
+L137C = 5 Ritmos_EEGráficos_fundamentales:
+          Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Sueño_espontáneo:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L137K = 5 0 0 0 0 0
+L137H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L137I1D = 1 3
+L137I2D = 1 13
+L137I3D = 1 23
+L137I4D = 1 32
+L137I5D = 1 35
+L137IP = 5 OFF OFF OFF OFF OFF
+L137L = 1 2
+L137O = 1 5
+L138T = 1 Obnubilado.
+L138P = 1 OFF
+L138M = 1 ON
+L138C = 5 Ritmos_EEGráficos_fundamentales:
+          Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Sueño_espontáneo:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L138K = 5 0 0 0 0 0
+L138H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L138I1D = 1 3
+L138I2D = 1 13
+L138I3D = 1 23
+L138I4D = 1 32
+L138I5D = 1 35
+L138IP = 5 OFF OFF OFF OFF OFF
+L138L = 1 1
+L138O = 1 5
+L139T = 1 Estuporoso.
+L139P = 1 OFF
+L139M = 1 ON
+L139C = 5 Ritmos_EEGráficos_fundamentales:
+          Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Sueño_espontáneo:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L139K = 5 0 0 0 0 0
+L139H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L139I1D = 1 3
+L139I2D = 1 13
+L139I3D = 1 23
+L139I4D = 1 32
+L139I5D = 1 35
+L139IP = 5 OFF OFF OFF OFF OFF
+L139L = 1 1
+L139O = 1 6
+L140T = 1 Coma_superficial.
+L140P = 1 OFF
+L140M = 1 ON
+L140C = 3 Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L140K = 3 0 0 0
+L140H = 60 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L140I1D = 1 13
+L140I2D = 1 32
+L140I3D = 1 35
+L140IP = 3 OFF OFF OFF
+L140L = 1 1
+L140O = 1 7
+L141T = 1 Coma_profundo.
+L141P = 1 OFF
+L141M = 1 ON
+L141C = 3 Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L141K = 3 0 0 0
+L141H = 60 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L141I1D = 1 13
+L141I2D = 1 32
+L141I3D = 1 35
+L141IP = 3 OFF OFF OFF
+L141L = 1 1
+L141O = 1 8
+L142T = 1 Coma_carus.
+L142P = 1 OFF
+L142M = 1 ON
+L142C = 3 Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L142K = 3 0 0 0
+L142H = 60 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L142I1D = 1 13
+L142I2D = 1 32
+L142I3D = 1 35
+L142IP = 3 OFF OFF OFF
+L142L = 1 1
+L142O = 1 9
+L143T = 1 de_aspecto_asimétrico:
+L143P = 1 OFF
+L143M = 1 ON
+L143C = 2 Tipo_de_asimetría:
+          Localización:
+L143K = 2 0 0
+L143H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L143I1D = 1 92
+L143I2D = 1 105
+L143IP = 2 OFF OFF
+L143L = 1 91
+L143O = 1 2
+L144T = 1 en_la_región_frontal
+L144P = 1 OFF
+L144M = 1 ON
+L144C = 2 Lateralidad:
+          Reactividad:
+L144K = 2 0 0
+L144H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L144I1D = 1 107
+L144I2D = 1 83
+L144IP = 2 OFF OFF
+L144L = 1 12
+L144O = 1 1
+L145T = 1 en_la_región_central
+L145P = 1 OFF
+L145M = 1 ON
+L145C = 2 Lateralidad:
+          Reactividad:
+L145K = 2 0 0
+L145H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L145I1D = 1 107
+L145I2D = 1 83
+L145IP = 2 OFF OFF
+L145L = 1 12
+L145O = 1 2
+L146T = 1 en_la_región_parietal
+L146P = 1 OFF
+L146M = 1 ON
+L146C = 2 Lateralidad:
+          Reactividad:
+L146K = 2 0 0
+L146H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L146I1D = 1 107
+L146I2D = 1 83
+L146IP = 2 OFF OFF
+L146L = 1 12
+L146O = 1 3
+L147T = 1 en_la_región_fronto-central
+L147P = 1 OFF
+L147M = 1 ON
+L147C = 2 Lateralidad:
+          Reactividad:
+L147K = 2 0 0
+L147H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L147I1D = 1 107
+L147I2D = 1 83
+L147IP = 2 OFF OFF
+L147L = 1 12
+L147O = 1 4
+L148T = 1 en_la_región_centro-parietal
+L148P = 1 OFF
+L148M = 1 ON
+L148C = 2 Lateralidad:
+          Reactividad:
+L148K = 2 0 0
+L148H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L148I1D = 1 107
+L148I2D = 1 83
+L148IP = 2 OFF OFF
+L148L = 1 12
+L148O = 1 5
+L149T = 1 de_aspecto_asimétrico:
+L149P = 1 OFF
+L149M = 1 ON
+L149C = 2 Tipo_de_asimetría:
+          Lateralidad:
+L149K = 2 0 0
+L149H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L149I1D = 1 92
+L149I2D = 1 107
+L149IP = 2 OFF OFF
+L149L = 1 106
+L149O = 1 2
+L150T = 1 global,_con_predominio_focal
+L150P = 1 OFF
+L150M = 1 ON
+L150C = 2 que_se_focaliza(n)_en:
+          Lateralidad:
+L150K = 2 0 0
+L150H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L150I1D = 1 88
+L150I2D = 1 89
+L150IP = 2 OFF OFF
+L150L = 1 84
+L150O = 1 5
+L151T = 1 Focal
+L151P = 1 OFF
+L151M = 1 ON
+L151C = 2 que_se_focaliza(n)_en:
+          Lateralidad:
+L151K = 2 0 0
+L151H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L151I1D = 1 88
+L151I2D = 1 89
+L151IP = 2 OFF OFF
+L151L = 1 84
+L151O = 1 6
+L152T = 1 Períodos_de_vigilia_durante_el_sueño_con:
+L152P = 1 OFF
+L152M = 1 ON
+L152C = 4 Ritmos_EEGráficos_fundamentales:
+          Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L152K = 4 0 0 0 0
+L152H = 80 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L152I1D = 1 3
+L152I2D = 1 13
+L152I3D = 1 32
+L152I4D = 1 35
+L152IP = 4 OFF OFF OFF OFF
+L152L = 1 23
+L152O = 1 3
+L153T = 1 -asimetría_de_la_actividad_de_base,
+L153P = 1 OFF
+L153M = 1 ON
+L153C = 2 Tipo_de_asimetría:
+          Distribución:
+L153K = 2 0 0
+L153H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L153I1D = 1 92
+L153I2D = 1 113
+L153IP = 2 OFF OFF
+L153L = 1 26
+L153O = 1 5
+L154T = 1 -asimetría_de_la_actividad_de_base,
+L154P = 1 OFF
+L154M = 1 ON
+L154C = 2 Tipo_de_asimetría:
+          Distribución:
+L154K = 2 0 0
+L154H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L154I1D = 1 92
+L154I2D = 1 113
+L154IP = 2 OFF OFF
+L154L = 1 29
+L154O = 1 4
+L155T = 1 Focal
+L155P = 1 OFF
+L155M = 1 ON
+L155C = 2 que_se_focaliza(n)_en:
+          Lateralidad:
+L155K = 2 0 0
+L155H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L155I1D = 1 88
+L155I2D = 1 89
+L155IP = 2 OFF OFF
+L155L = 1 113
+L155O = 1 3
+L156T = 1 Vigilia_al_comienzo_o_durante_el_estudio.
+L156P = 1 OFF
+L156M = 1 ON
+L156C = 4 Ritmos_EEGráficos_fundamentales:
+          Actividades_EEGráficas_no_organizadas_como_ritmos:
+          Alteraciones_lentas_del_EEG:
+          Alteraciones_paroxísticas_del_EEG:
+L156K = 4 0 0 0 0
+L156H = 80 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L156I1D = 1 3
+L156I2D = 1 13
+L156I3D = 1 32
+L156I4D = 1 35
+L156IP = 4 OFF OFF OFF OFF
+L156L = 1 27
+L156O = 1 4
+L157T = 1 con_defecto_de_captación_focal
+L157P = 1 OFF
+L157M = 1 ON
+L157C = 2 que_se_focaliza(n)_en:
+          Lateralidad:
+L157K = 2 0 0
+L157H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L157I1D = 1 88
+L157I2D = 1 89
+L157IP = 2 OFF OFF
+L157L = 1 31
+L157O = 1 2
+L158T = 1 en_forma_asimétrica
+L158P = 1 OFF
+L158M = 1 ON
+L158C = 2 Tipo_de_asimetría:
+          Lateralidad:
+L158K = 2 0 0
+L158H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L158I1D = 1 92
+L158I2D = 1 107
+L158IP = 2 OFF OFF
+L158L = 1 115
+L158O = 1 2
+L159T = 1 intercríticos,
+L159P = 1 OFF
+L159M = 1 ON
+L159C = 3 Tipo:
+          Distribución:
+          Propagación:
+L159K = 3 0 0 0
+L159H = 60 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L159I1D = 1 37
+L159I2D = 1 86
+L159I3D = 1 93
+L159IP = 3 OFF OFF OFF
+L159L = 1 41
+L159O = 1 1
+L160T = 1 en_todas_las_derivaciones_en_forma_difusa,
+L160P = 1 OFF
+L160M = 1 ON
+L160C = 2 Presentación_bilateral:
+          Repetición:
+L160K = 2 0 0
+L160H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L160I1D = 1 90
+L160I2D = 1 94
+L160IP = 2 OFF OFF
+L160L = 1 86
+L160O = 1 2
+L161T = 1 generalizados_con_predominio_focal,
+L161P = 1 OFF
+L161M = 1 ON
+L161C = 3 que_se_focaliza(n)_en:
+          Lateralidad:
+          Repetición:
+L161K = 3 0 0 0
+L161H = 60 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L161I1D = 1 88
+L161I2D = 1 89
+L161I3D = 1 94
+L161IP = 3 OFF OFF OFF
+L161L = 1 86
+L161O = 1 3
+L162T = 1 focales,
+L162P = 1 OFF
+L162M = 1 ON
+L162C = 3 que_se_focaliza(n)_en:
+          Lateralidad:
+          Repetición:
+L162K = 3 0 0 0
+L162H = 60 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L162I1D = 1 88
+L162I2D = 1 89
+L162I3D = 1 94
+L162IP = 3 OFF OFF OFF
+L162L = 1 86
+L162O = 1 6
+L163T = 1 multifocales,
+L163P = 1 OFF
+L163M = 1 ON
+L163C = 3 que_se_focaliza(n)_en:
+          Lateralidad:
+          Repetición:
+L163K = 3 0 0 0
+L163H = 60 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L163I1D = 1 88
+L163I2D = 1 89
+L163I3D = 1 94
+L163IP = 3 OFF OFF OFF
+L163L = 1 86
+L163O = 1 7
+L164T = 1 Crisis_eléctricas_focales.
+L164P = 1 OFF
+L164M = 1 ON
+L164C = 4 Crisis_eléctricas_focales:
+          que_se_focaliza(n)_en:
+          Lateralidad:
+          Fenómenos_asociados_a_las_crisis_eléctricas:
+L164K = 4 0 0 0 0
+L164H = 80 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L164I1D = 1 123
+L164I2D = 1 88
+L164I3D = 1 89
+L164I4D = 1 43
+L164IP = 4 OFF OFF OFF OFF
+L164L = 1 42
+L164O = 1 1
+L165T = 1 Crisis_eléctricas_generalizadas_de_inicio_focal.
+L165P = 1 OFF
+L165M = 1 ON
+L165C = 4 Crisis_eléctricas_generalizadas_de_inicio_focal:
+          que_se_focaliza(n)_en:
+          Lateralidad:
+          Fenómenos_asociados_a_las_crisis_eléctricas:
+L165K = 4 0 0 0 0
+L165H = 80 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L165I1D = 1 125
+L165I2D = 1 88
+L165I3D = 1 89
+L165I4D = 1 43
+L165IP = 4 OFF OFF OFF OFF
+L165L = 1 42
+L165O = 1 3
+L166T = 1 Crisis_eléctricas_generalizadas.
+L166P = 1 OFF
+L166M = 1 ON
+L166C = 2 Crisis_eléctricas_generalizadas:
+          Fenómenos_asociados_a_las_crisis_eléctricas:
+L166K = 2 0 0
+L166H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L166I1D = 1 124
+L166I2D = 1 43
+L166IP = 2 OFF OFF
+L166L = 1 42
+L166O = 1 2
+L167T = 1 críticos_de_tipo_electro-clínicos;
+L167P = 1 OFF
+L167M = 1 ON
+L167C = 2 Tipos_de_crisis_eléctricas:
+          Tipos_de_crisis_clínicas:
+L167K = 2 0 0
+L167H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L167I1D = 1 42
+L167I2D = 1 44
+L167IP = 2 OFF OFF
+L167L = 1 41
+L167O = 1 3
+L168T = 1 en_status_electro-clínico,
+L168P = 1 OFF
+L168M = 1 ON
+L168C = 2 Tipos_de_crisis_eléctricas:
+          Tipos_de_crisis_clínicas:
+L168K = 2 0 0
+L168H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L168I1D = 1 42
+L168I2D = 1 44
+L168IP = 2 OFF OFF
+L168L = 1 41
+L168O = 1 7
+L169T = 1 intercrítico_y_con_crisis_eléctricas,
+L169P = 1 OFF
+L169M = 1 ON
+L169C = 4 Tipo:
+          Distribución:
+          Propagación:
+          Tipos_de_crisis_eléctricas:
+L169K = 4 0 0 0 0
+L169H = 80 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L169I1D = 1 37
+L169I2D = 1 86
+L169I3D = 1 93
+L169I4D = 1 42
+L169IP = 4 OFF OFF OFF OFF
+L169L = 1 41
+L169O = 1 4
+L170T = 1 intercrítico_y_con_crisis_eléctro-clínicas,
+L170P = 1 OFF
+L170M = 1 ON
+L170C = 5 Tipo:
+          Distribución:
+          Propagación:
+          Tipos_de_crisis_eléctricas:
+          Tipos_de_crisis_clínicas:
+L170K = 5 0 0 0 0 0
+L170H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L170I1D = 1 37
+L170I2D = 1 86
+L170I3D = 1 93
+L170I4D = 1 42
+L170I5D = 1 44
+L170IP = 5 OFF OFF OFF OFF OFF
+L170L = 1 41
+L170O = 1 5
+L171T = 1 Crisis_parciales.
+L171P = 1 OFF
+L171M = 1 ON
+L171C = 2 Crisis_parciales:
+          Fenómenos_asociados_a_las_crisis_clínicas:
+L171K = 2 0 0
+L171H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L171I1D = 1 45
+L171I2D = 1 48
+L171IP = 2 OFF OFF
+L171L = 1 44
+L171O = 1 1
+L172T = 1 Crisis_parciales,_secundariamente_generalizadas
+L172P = 1 OFF
+L172M = 1 ON
+L172C = 2 Crisis_parciales,_secundariamente_generalizadas:
+          Fenómenos_asociados_a_las_crisis_clínicas:
+L172K = 2 0 0
+L172H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L172I1D = 1 46
+L172I2D = 1 48
+L172IP = 2 OFF OFF
+L172L = 1 44
+L172O = 1 2
+L173T = 1 Crisis_generalizadas.
+L173P = 1 OFF
+L173M = 1 ON
+L173C = 2 Crisis_generalizadas:
+          Fenómenos_asociados_a_las_crisis_clínicas:
+L173K = 2 0 0
+L173H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L173I1D = 1 47
+L173I2D = 1 48
+L173IP = 2 OFF OFF
+L173L = 1 44
+L173O = 1 3
+L174T = 1 Cambios_con_las_maniobras_de_activación:
+L174P = 1 OFF
+L174M = 1 ON
+L174C = 6 Apertura_de_los_ojos:
+          Cierre_de_los_ojos:
+          Otros_tipos_de_estimulación.
+          Hiperventilación:
+          Fotoestimulación:
+          Sueño_de_siesta:
+L174K = 6 0 0 0 0 0 0
+L174H = 120 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+            ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L174I1D = 1 49
+L174I2D = 1 51
+L174I3D = 1 53
+L174I4D = 1 56
+L174I5D = 1 66
+L174I6D = 1 116
+L174IP = 6 OFF OFF OFF OFF OFF OFF
+L174L = 1 0
+L174O = 1 2
+L175T = 1 Con_cambios_fisiológicos_y_patológicos.
+L175P = 1 OFF
+L175M = 1 ON
+L175C = 2 Cambios_fisiológicos:
+          Cambios_patológicos:
+L175K = 2 0 0
+L175H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L175I1D = 1 57
+L175I2D = 1 62
+L175IP = 2 OFF OFF
+L175L = 1 56
+L175O = 1 5
+L176T = 1 Con_cambios_fisiológicos_y_patológicos.
+L176P = 1 OFF
+L176M = 1 ON
+L176C = 2 Cambios_fisiológicos:
+          Cambios_patológicos:
+L176K = 2 0 0
+L176H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L176I1D = 1 67
+L176I2D = 1 70
+L176IP = 2 OFF OFF
+L176L = 1 66
+L176O = 1 5
+L177T = 1 Artefactos_en_el_registro:
+L177P = 1 OFF
+L177M = 1 ON
+L177C = 2 Artefactos_técnicos:
+          Artefactos_fisiológicos:
+L177K = 2 0 0
+L177H = 40 OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L177I1D = 1 73
+L177I2D = 1 75
+L177IP = 2 OFF OFF
+L177L = 1 0
+L177O = 1 3
+L178T = 1 Signos_de_sufrimiento_cortical_regional
+L178P = 1 OFF
+L178M = 1 ON
+L178C = 2 Magnitud_de_las_alteraciones_del_EEG:
+          Localización:
+L178K = 2 0 0
+L178H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L178I1D = 1 109
+L178I2D = 1 105
+L178IP = 2 OFF OFF
+L178L = 1 80
+L178O = 1 4
+L179T = 1 Signos_de_sufrimiento_cortical_focal
+L179P = 1 OFF
+L179M = 1 ON
+L179C = 2 Magnitud_de_las_alteraciones_del_EEG:
+          Localización:
+L179K = 2 0 0
+L179H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L179I1D = 1 109
+L179I2D = 1 105
+L179IP = 2 OFF OFF
+L179L = 1 80
+L179O = 1 5
+L180T = 1 Signos_de_sufrimiento_subcortical_o_funcional_hemisférico_focal
+L180P = 1 OFF
+L180M = 1 ON
+L180C = 2 Magnitud_de_las_alteraciones_del_EEG:
+          Localización:
+L180K = 2 0 0
+L180H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L180I1D = 1 109
+L180I2D = 1 105
+L180IP = 2 OFF OFF
+L180L = 1 80
+L180O = 1 7
+L181T = 1 Signos_de_irritación_cortical_focal_intercrítica
+L181P = 1 OFF
+L181M = 1 ON
+L181C = 2 Magnitud_de_las_alteraciones_del_EEG:
+          Localización:
+L181K = 2 0 0
+L181H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L181I1D = 1 109
+L181I2D = 1 105
+L181IP = 2 OFF OFF
+L181L = 1 81
+L181O = 1 1
+L182T = 1 Signos_de_irritación_cortical_focal_de_tipo_crítico
+L182P = 1 OFF
+L182M = 1 ON
+L182C = 2 Magnitud_de_las_alteraciones_del_EEG:
+          Localización:
+L182K = 2 0 0
+L182H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L182I1D = 1 109
+L182I2D = 1 105
+L182IP = 2 OFF OFF
+L182L = 1 81
+L182O = 1 2
+L183T = 1 Signos_de_irritación_cortical_hemisférica_intercrítica
+L183P = 1 OFF
+L183M = 1 ON
+L183C = 2 Magnitud_de_las_alteraciones_del_EEG:
+          Loteralidad:
+L183K = 2 0 0
+L183H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L183I1D = 1 109
+L183I2D = 1 107
+L183IP = 2 OFF OFF
+L183L = 1 81
+L183O = 1 3
+L184T = 1 Signos_de_irritación_cortical_hemisférica_de_tipo_crítico
+L184P = 1 OFF
+L184M = 1 ON
+L184C = 2 Magnitud_de_las_alteraciones_del_EEG:
+          Loteralidad:
+L184K = 2 0 0
+L184H = 40 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+           ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+L184I1D = 1 109
+L184I2D = 1 107
+L184IP = 2 OFF OFF
+L184L = 1 81
+L184O = 1 4
+RL = 1 21
+R1 = 1 Características_de_la_actividad_de_base:
+R2 = 1 __Vigil.
+R3 = 1 ____Ritmos_EEGráficos_fundamentales:
+R4 = 1 ______Ritmo_alfa:
+R5 = 1 ______bien_organizado_posterior,_en_ambos_hemisferios,_bien_modulado,_reactivo_sin_habituación,_de_aspecto_simétrico_en_
+R6 = 1 ______ambos_hemisferios.
+R7 = 1 Cambios_con_las_maniobras_de_activación:
+R8 = 1 __Apertura_de_los_ojos:
+R9 = 1 ____Desincronización_de_la_actividad_de_base.
+R10 = 1 __Cierre_de_los_ojos:
+R11 = 1 ____Regreso_al_aspecto_inicial_del_trazado.
+R12 = 1 __Hiperventilación:
+R13 = 1 ____Sin_influencia_sobre_el_trazado.
+R14 = 1 __Fotoestimulación:
+R15 = 1 ____No_realizada.
+R16 = 1 Artefactos_en_el_registro:
+R17 = 1 __Artefactos_fisiológicos:
+R18 = 1 ____Parpadeo.
+R19 = 1 ____Movimientos_oculares.
+R20 = 1 Conclusión_general.
+R21 = 1 __EEG_normal.
+RE = 1 OFF
+L0H = 100 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+          ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+          ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+          ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+L1H = 200 ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON ON
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+          OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
