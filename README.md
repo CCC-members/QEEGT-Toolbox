@@ -14,15 +14,24 @@ There is a file named “qeegt.hdr”, which contains the explanation and how to
 At the end of the “main_call.m” file there is an example of how to create a TXT file with the expected structure, using the EEG recording provided in the directory “example”.
 The qeegt function save all the calculations in files with extension .MOD. This is a proprietary general format created by Neuronic system to store their results. In the directory “plg_tools”, inside the directory “code”, the function “getdatamod.m” reads all the MOD files and returns all the information they contain.
 According to the parameters set in the call to the qeegt.m function, there can be:
+
 a)	Raw cross-spectral matrices for the narrow band model at the scalp
+
 b)	z cross-spectral matrices for the narrow band model at the scalp. 
+
 c)	raw broad band matrices for absolute power, relative power and Median Frequency at the scalp.
+
 d)	z broad band matrices for absolute power, relative power and Median Frequency at the scalp.
+
 e)	Coherence matrices at the scalp for the narrow band model.
+
 f)	The energy of the Raw log spectra at the sources, either for the grid at the cortex or the grid including subcortical structures.
+
 g)	The lead components (XYZ) of the Raw log spectra at the sources, either for the grid at the cortex or the grid including subcortical structures.
+
 h)	z of the log spectra at the sources, either for the grid at the cortex or the grid including subcortical structures.
 
 Bosch-Bayard, J., Valdés-Sosa, P., Virues-Alba, T., Aubert-Vázquez, E., John, E. R., Harmony, T., … Trujillo-Barreto, N. (2001). 3D statistical parametric mapping of EEG source spectra by means of variable resolution electromagnetic tomography (VARETA). Clinical EEG (Electroencephalography), 32(2), 47–61. https://doi.org/10.1177/155005940103200203
+
 Hernandez-gonzalez, G., Bringas-vega, M. L., Galán-garcía, L., Bosch-bayard, J., Melie-garcia, Y. L. L., Valdes-urrutia, L., & Cobas-ruiz, M. (2011). P f o r o. Clinical Eeg And Neuroscience, 42(3).
 
