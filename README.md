@@ -40,6 +40,12 @@ g)	The lead components (XYZ) of the Raw log spectra at the sources, either for t
 
 h)	z of the log spectra at the sources, either for the grid at the cortex or the grid including subcortical structures.
 
+Independent Use of the Norms
+
+The directory <norm_coeeficients> contain information on the nature and how to independently access (out of the qEEGT toolbox) the normative coefficients used in this toolbox. Those coefficients were obtained from the Cuban normal population and we are providing indepdent access to them for persons who may want to use them for their own projects. Information about how the Cuban Normative database from wehere the regressions coefficients were obtained is also provide in the file <Normative Data Information.docx>.
+  
+References
+
 Bosch-Bayard, J., Valdés-Sosa, P., Virues-Alba, T., Aubert-Vázquez, E., John, E. R., Harmony, T., … Trujillo-Barreto, N. (2001). 3D statistical parametric mapping of EEG source spectra by means of variable resolution electromagnetic tomography (VARETA). Clinical EEG (Electroencephalography), 32(2), 47–61. https://doi.org/10.1177/155005940103200203
 
 Hernandez-gonzalez, G., Bringas-vega, M. L., Galán-garcía, L., Bosch-bayard, J., Melie-garcia, Y. L. L., Valdes-urrutia, L., & Cobas-ruiz, M. (2011). P f o r o. Clinical Eeg And Neuroscience, 42(3).
