@@ -24,21 +24,22 @@ The qeegt function save all the calculations in files with extension .MOD. This 
 
 According to the parameters set in the call to the qeegt.m function, there can be:
 
-a)	Raw cross-spectral matrices for the narrow band model at the scalp
+  a)	Raw cross-spectral matrices for the narrow band model at the scalp
 
-b)	z cross-spectral matrices for the narrow band model at the scalp. 
+  b)	z cross-spectral matrices for the narrow band model at the scalp. 
 
-c)	raw broad band matrices for absolute power, relative power and Median Frequency at the scalp.
+  c)	raw broad band matrices for absolute power, relative power and Median Frequency at the scalp.
 
-d)	z broad band matrices for absolute power, relative power and Median Frequency at the scalp.
+  d)	z broad band matrices for absolute power, relative power and Median Frequency at the scalp.
 
-e)	Coherence matrices at the scalp for the narrow band model.
+  e)	Coherence matrices at the scalp for the narrow band model.
 
-f)	The energy of the Raw log spectra at the sources, either for the grid at the cortex or the grid including subcortical structures.
+  f)	The energy of the Raw log spectra at the sources, either for the grid at the cortex or the grid including subcortical structures.
 
-g)	The lead components (XYZ) of the Raw log spectra at the sources, either for the grid at the cortex or the grid including subcortical structures.
+  g)	The lead components (XYZ) of the Raw log spectra at the sources, either for the grid at the cortex or the grid including subcortical structures.
 
-h)	z of the log spectra at the sources, either for the grid at the cortex or the grid including subcortical structures.
+  h)	z of the log spectra at the sources, either for the grid at the cortex or the grid including subcortical structures.
+
 
 Independent Use of the Norms
 
