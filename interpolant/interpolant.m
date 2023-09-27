@@ -1,38 +1,23 @@
 load("test.mat")
-metric = zeros(length(ncoor),48);
 metric_interp = zeros(length(Vertices),48);
-metric_list = {'FI','FD','Int','tcFILev1','tcFILev2','tcFDLev1','tcFDLev2','Age','Severity'}; 
-%% Interpolation for tstatps
+metric_list = {'Int'}; 
+
+%% Interpolation
+% loop metric
 for met = 1:length(metric_list)
     mtname = metric_list{met};
+    % test
     metric = extractfield(tstatps,mtname);
     metric = reshape(metric,length(ncoor),48);
+    % loop frequencies
     for freq = 1:48
-        interp = scatteredInterpolant(ncoor,metric(:,freq));
+        % test
+        metric_tmpe = metric(:,freq);
+        interp = scatteredInterpolant(ncoor,metric_tmpe);
         metric_interp(:,freq) = interp(Vertices);
         display(strcat("Interpolating metric ",mtname," frequency ",num2str(freq*0.39),'Hz'))
     end
     mtname = strcat(mtname,'_interp');
     tstatps.(mtname) = metric_interp;
 end
-
-%% Interpolation for pstatsps
-for met = 1:length(metric_list)
-    mtname = metric_list{met};
-    metric = extractfield(pstatsps,mtname);
-    metric = reshape(metric,length(ncoor),48);
-    for freq = 1:48
-        interp = scatteredInterpolant(ncoor,metric(:,freq));
-        metric_interp(:,freq) = interp(Vertices);
-        display(strcat("Interpolating metric ",mtname," frequency ",num2str(freq*0.39),'Hz'))
-    end
-    mtname = strcat(mtname,'_interp');
-    pstatsps.(mtname) = metric_interp;
-end
-save('test.mat',pstatsps,tstatps,thrlev,thresholdsps)
-
-
-
-
-
-
+save('test.mat','pstatsps','tstatps','thrlev','thresholdsps')

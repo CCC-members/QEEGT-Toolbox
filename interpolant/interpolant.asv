@@ -1,68 +1,26 @@
-close all
-clear all
-load("surface.mat")
 load("test.mat")
-ncoor = load("nors_MNI_3244xyz.txt","ascii");
-ncoor = ncoor/1000;
-
-%% Figure 
-figure
-scatter3(ncoor(:,1),ncoor(:,2),ncoor(:,3),'r');
-hold on
-scatter3(Vertices(:,1),Vertices(:,2),Vertices(:,3),'blue');
-xlabel 'x'
-ylabel 'y'
-zlabel 'z'
-
-%% rotation
-zang = pi/2;
-zrtate = [cos(zang) -sin(zang)  0; sin(zang) cos(zang) 0; 0 0 1];
-Vertices = (zrtate*Vertices')';
-xang = pi/30;
-xrtate = [1 0  0; 0 cos(xang) -sin(xang); 0 sin(xang) cos(xang)];
-Vertices = (xrtate*Vertices')';
-
-%% traslation
-Vertices(:,2) = Vertices(:,2) - (min(Vertices(:,2)) - min(ncoor(:,2)));
-Vertices(:,2) = Vertices(:,2) - (max(Vertices(:,2)) - max(ncoor(:,2)))/2;
-Vertices(:,3) = Vertices(:,3) - (max(Vertices(:,3)) - max(ncoor(:,3)));
-Vertices(:,3) = Vertices(:,3) - (min(Vertices(:,3)) - min(ncoor(:,3)))/2;
-
-%% Figure aligment
-figure
-scatter3(ncoor(:,1),ncoor(:,2),ncoor(:,3),'r');
-hold on
-scatter3(Vertices(:,1),Vertices(:,2),Vertices(:,3),'blue');
-xlabel 'x'
-ylabel 'y'
-zlabel 'z'
+metric_interp = zeros(length(Vertices),48);
+metric_list = {'Int'}; 
 
 %% Interpolation
-metric = zeros(length(ncoor),48);
-metric_interp = zeros(length(Vertices),48);
-metric_list = {'FI','FD','Int','tcFILev1','tcFILev2','tcFDLev1','tcFDLev2','Age','Severity'}; 
+% loop metric
 for met = 1:length(metric_list)
     mtname = metric_list{met};
+    % test
     metric = extractfield(tstatps,mtname);
     metric = reshape(metric,length(ncoor),48);
+    % loop frequencies
     for freq = 1:48
-        interp = scatteredInterpolant(ncoor,metric(:,freq));
-        metric_interp(:,freq) = interp(Vertices);
+        % test
+        metric_tmpe = metric(:,freq);
+        pos = metric_tmpe > 0;
+        pos = min(metric_tmpe(pos));
+        neg = 0 < metric_tmpe;
+        interp = scatteredInterpolant(ncoor,metric_tmpe);
+        metric_tmpe = interp(Vertices);
         display(strcat("Interpolating metric ",mtname," frequency ",num2str(freq*0.39),'Hz'))
     end
     mtname = strcat(mtname,'_interp');
     tstatps.(mtname) = metric_interp;
 end
-
-metric = tstatps.FI_interp;
-mtname = strcat(metric_list{1},'_interp');
-metric = extractfield(tstatps,mtname);
-figure;
-patch('Vertices',Vertices, ...
-    'Faces',Faces, ...
-    'FaceVertexCData',abs(map_pos(:,3))/max(abs(map_pos(:,3))), ...
-    'FaceColor','inter', ...
-    'EdgeColor','none')
-
-
-
+save('test.mat',pstatsps,tstatps,thrlev,thresholdsps)
