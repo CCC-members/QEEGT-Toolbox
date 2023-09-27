@@ -50,3 +50,13 @@ patch( 'Faces',            Faces, ...
     'EdgeLighting',     'gouraud', ...
     'Tag',              'AnatSurface');
 axis off;
+
+
+
+%% Get bands
+freqs = 0.78:0.39:19.14;
+delta = find(freqs >= 0 & freqs <= 4);      % delta 0 - 4 Hz
+theta = find(freqs >= 4 & freqs <= 8);      % theta 4 - 8 Hz
+alpha = find(freqs >= 8 & freqs <= 12.5);   % alpha 8 - 12.5 Hz
+beta  = find(freqs >= 12.5 & freqs <= 20);  % beta 12.5 - 20 Hz
+
