@@ -4,8 +4,8 @@
 load("test.mat")
 if(~isfolder('Figures')); mkdir('Figures');end
 metric_interp = zeros(length(Vertices),48);
-% metric_list = {'Int'};
-metric_list = {'FI','FD','Int','tcFILev1','tcFILev2','tcFDLev1','tcFDLev2'};
+metric_list = {'Int'};
+% metric_list = {'FI','FD','Int','tcFILev1','tcFILev2','tcFDLev1','tcFDLev2'};
 %% Interpolation
 % loop metric
 for met = 1:length(metric_list) 
