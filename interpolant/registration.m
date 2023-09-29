@@ -11,7 +11,7 @@ scatter3(Vertices(:,1),Vertices(:,2),Vertices(:,3),'blue','o','LineWidth',0.1);
 xlabel 'x'
 ylabel 'y'
 zlabel 'z'
-saveas(fig,'registration_before.fig');
+saveas(fig,'Figures/registration_before.fig');
 close(fig)
 %% rotation
 zang = pi/2;
@@ -37,5 +37,5 @@ scatter3(Vertices(:,1),Vertices(:,2),Vertices(:,3),'blue','o','LineWidth',0.1);
 xlabel 'x'
 ylabel 'y'
 zlabel 'z'
-saveas(fig,'registration_after.fig');
+saveas(fig,'Figures/registration_after.fig');
 close(fig)
