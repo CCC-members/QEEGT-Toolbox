@@ -1,4 +1,8 @@
+%%
+%% Stat interpolation from XNORS low resolution to BigBrain like ICBM152 high resolution
+%%
 load("test.mat")
+if(~isfolder('Figures')); mkdir('Figures');end
 metric_interp = zeros(length(Vertices),48);
 metric_list = {'Int'};
 % metric_list = {'FI','FD','Int','tcFILev1','tcFILev2','tcFDLev1','tcFDLev2'};

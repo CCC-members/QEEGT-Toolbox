@@ -1,3 +1,7 @@
+%%
+%% Plotting stat by selected frequencies
+%%
+if(~isfolder('Figures')); mkdir('Figures');end
 freq_range = 0.78:0.39:19.14;
 delta = find(freq_range >= 0 & freq_range <= 4);      % delta 0 - 4 Hz
 theta = find(freq_range >= 4 & freq_range <= 8);      % theta 4 - 8 Hz

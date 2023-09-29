@@ -1,4 +1,7 @@
-%% Figure stats
+%%
+%% Figure stats by frequencies
+%%
+if(~isfolder('Figures')); mkdir('Figures');end
 for met = 1:length(metric_list)
     mtname = metric_list{met};
     mtname = strcat(mtname,'_interp');

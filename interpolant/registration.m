@@ -1,5 +1,9 @@
+%%
+%% Surfaces registration XNORS with BigBrain like ICBM152 sym
+%%
 close all
 clear all
+if(~isfolder('Figures')); mkdir('Figures');end
 load("bigbrain_MNI_327684xyz.mat")
 ncoor = load("nors_MNI_3244xyz.txt","ascii");
 ncoor = ncoor/1000;
