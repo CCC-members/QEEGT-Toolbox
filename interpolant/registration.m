@@ -1,5 +1,5 @@
 %%
-%% Surfaces registration XNORS with BigBrain like ICBM152 sym
+%% Surfaces registration NORS with BigBrain like ICBM152 sym
 %%
 close all
 clear all
