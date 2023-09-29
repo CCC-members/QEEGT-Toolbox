@@ -1,0 +1,7 @@
+*.asv
+data/
+results/
+tmp/
+Output/
+Figures/
+*.fig
