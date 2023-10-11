@@ -2,7 +2,7 @@
 
 qEEGt stands for Tomographic Quantitative Electroencephalography. This methodology was developed at the Cuban Neuroscience Center as part of the first wave of the Cuban Human Brain Mapping Project (CHBMP) and has been validated and used in different health systems for several decades (Bosch-Bayard et al., 2001; Hernandez-gonzalez et al., 2011). It produces age-corrected normative Statistical Parametric Maps of EEG log source spectra testing compliance to a normative database. Among other features are the calculation of EEG scalp spectra, and the estimation of their source spectra using VARETA source imaging. Crucially, this is completed by the evaluation of z spectra by means of the built-in age regression equations obtained from the CHBMP database (ages 5-87) to provide normative Statistical Parametric Mapping of EEG log source spectra.
 
-This methodology has now been integrated into the the MNI Neuroinformatics Ecosystem as a docker in CBRAIN. Incorporation into the MNI ecosystem now provides CBRAIN registered users access to its full functionality. Openly releasing this software in the CBRAIN platform will facilitate the use of standardized qEEGt methods in different research and clinical settings. An updated precis of the methods is provided in the appendix of a paper which is currently under revision in Frontiers in Neuroinformatics. qEEGt/CBRAIN is the first installment of instruments developed by the C-C-C project.
+This methodology has now been integrated into the MNI Neuroinformatics Ecosystem as a docker in CBRAIN. Incorporation into the MNI ecosystem now provides CBRAIN registered users access to its full functionality. Openly releasing this software in the CBRAIN platform will facilitate the use of standardized qEEGt methods in different research and clinical settings. An updated precis of the methods is provided in the appendix of a paper which is currently under revision in Frontiers in Neuroinformatics. qEEGt/CBRAIN is the first installment of instruments developed by the C-C-C project.
 
 We are the same time publicly releasing here the Matlab implementation of the qEEGt/CBRAIN facilities for users who want to run it outside the CBRAIN environment.
 
@@ -43,7 +43,7 @@ According to the parameters set in the call to the qeegt.m function, there can b
 
 Independent Use of the Norms
 
-The directory <norm_coeeficients> contain information on the nature and how to independently access (out of the qEEGT toolbox) the normative coefficients used in this toolbox. Those coefficients were obtained from the Cuban normal population and we are providing indepdent access to them for persons who may want to use them for their own projects. Information about how the Cuban Normative database from wehere the regressions coefficients were obtained is also provide in the file <Normative Data Information.docx>.
+The directory <norm_coeeficients> contain information on the nature and how to independently access (out of the qEEGT toolbox) the normative coefficients used in this toolbox. Those coefficients were obtained from the Cuban normal population and we are providing independent access to them for persons who may want to use them for their own projects. Information about how the Cuban Normative database from where the regressions coefficients were obtained is also provide in the file <Normative Data Information.docx>.
   
 References
 
