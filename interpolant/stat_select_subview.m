@@ -23,7 +23,7 @@ for met = 1:length(metric_list)
             else; band = 'beta';
             end
             figname = strcat(metric_list{met},'-',band,'(',num2str(freq_range(freq)),')');
-            fig = figure("Name",figname,"NumberTitle","off","Color",'w','Position',[398 103 1113 876]);
+            fig = figure("Name",figname,"NumberTitle","off","Color",'w','Position',[398 103 1300 900]);
             axis tight; 
             title(figname,"FontSize",16,"FontWeight","bold","Visible","on")
             metric_tmpe = metric_interp(:,freq);   
@@ -53,15 +53,15 @@ for met = 1:length(metric_list)
                 rotate3d on;
                 max_val = max(abs(metric_tmpe));
                 currentAxes.CLim = [(-max_val-0.01) (max_val+0.01)];
-                colormap(bipolar(201, 0.3))
-                % copyobj(ptch_tmpe,plot_tmpe);
-                axis(currentAxes,"tight");
+                colormap(bipolar(201, 0.3))    
+                axis(currentAxes,"tight");                
                 currentAxes.View = views(v,:);               
                 plot_tmpe = subplot(2,2,v,currentAxes);
-            end
+            end            
+            colorbar(currentAxes,'Position',[0.93 0.168 0.022 0.7]);           
             filename = strcat('Figure_',metric_list{met},'_',band,'_',num2str(freq_range(freq)));
-            saveas(fig,fullfile(strcat(filename,'.fig')));
-            saveas(fig,fullfile(strcat(filename,'.png')));
+            saveas(fig,fullfile('Outputs','Figures',strcat(filename,'.fig')));
+            saveas(fig,fullfile('Outputs','Figures',strcat(filename,'.png')));
             close(fig);
         end
     end    
